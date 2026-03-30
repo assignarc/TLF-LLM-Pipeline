@@ -87,7 +87,27 @@ outputs = model.generate(**inputs, max_new_tokens=256)
 print(tokenizer.decode(outputs[0]))
 ```
 
+## Example
+
+```python
+Prompt : Define Goddess 
+
+2026-03-24 19:10:20,665 - Inference - INFO - 
+[BASE MODEL]: <end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning goddess.
+<end_of_turn>model <start of turn>: devi is a feminine noun, meaning
+2026-03-24 19:10:20,665 - Inference - INFO - [FINETUNED]: "devi" Def: f. ( -वी ) 1 A female deity, goddess; a woman of the first or second order. f( आ ). A female deity, goddess; a woman of the first or second order. Tags: Feminine.<end_of_turn>
+```
+
 ## Citation & Credits
 
-- **TLF Framework**: Architected for Unified Indic LLM Fine-tuning.
-- **Data Source**: Custom Dictionary & Regional Text Corpus.
+- **[TLF Framework](https://github.com/assignarc/TLF-LLM-Pipeline)**: Architected for Unified Indic LLM Fine-tuning.
+- **[Data Source](https://www.transliteral.org/dictionary/)**: Custom Dictionary & Regional Text Corpus.
+- [MLX-LM](https://github.com/ml-explore/mlx-lm) - MLX LM is a Python package for generating text and fine-tuning large language models on Apple silicon with MLX.
