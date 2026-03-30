@@ -1,0 +1,4318 @@
+[
+  {
+    "Code": "text.brihannariy.01.purva",
+    "Title": "बृहन्नारदीय पूर्वखंड"
+  },
+  {
+    "Code": "text.brihadyama",
+    "Title": "बृहद् यम स्मृति"
+  },
+  {
+    "Code": "upanishad.aiterey",
+    "Title": "ऐतरेय उपनिषद"
+  },
+  {
+    "Code": "text.anargharaghava",
+    "Title": "Anargharāghava"
+  },
+  {
+    "Code": "sutra.gruhya.paraskar",
+    "Title": "पारस्कर गृह्यसूत्र"
+  },
+  {
+    "Code": "text.shaktananda-taramgini",
+    "Title": "Shaktananda Taranginī"
+  },
+  {
+    "Code": "text.sulabh.jyotish",
+    "Title": "सुलभ ज्योतिषशास्त्र"
+  },
+  {
+    "Code": "text.kavyamala.karpuramanjari",
+    "Title": "Karpuramanjari"
+  },
+  {
+    "Code": "text.gauraganoddesha",
+    "Title": "Gauragaṇoddeśa"
+  },
+  {
+    "Code": "text.tsi.aa.le",
+    "Title": "त्सिमर, आल्टिन्डिज्ञे लेवेन"
+  },
+  {
+    "Code": "purana.skanda.01.maheshwar.03.aruna.01",
+    "Title": "स्कंदपुराण माहेश्वर अरुणाचल महात्म्य पूर्वार्ध"
+  },
+  {
+    "Code": "text.kalanirnay",
+    "Title": "Kālanirṇaya"
+  },
+  {
+    "Code": "sutra.dharma.prajapati",
+    "Title": "Prajapati Dharma Sutra"
+  },
+  {
+    "Code": "text.nyayashastra",
+    "Title": "Nāṭyaśāstra"
+  },
+  {
+    "Code": "text.kusumanjali",
+    "Title": "Kusumânjali"
+  },
+  {
+    "Code": "text.harivansh.03.bhavishya",
+    "Title": "हरिवंश भविष्यपर्व"
+  },
+  {
+    "Code": "text.ratirahasya",
+    "Title": "Ratirahasya"
+  },
+  {
+    "Code": "text.shatrunjaya-mahatmya",
+    "Title": "Śatruṃjaya Māhātmya"
+  },
+  {
+    "Code": "author.dhanvantari",
+    "Title": "धन्वंतरी | Dhanvantari"
+  },
+  {
+    "Code": "text.vishnusahstranama",
+    "Title": "Vishṇusahasranâma."
+  },
+  {
+    "Code": "text.dnyata-dharma-katha",
+    "Title": "Jñātā-Dharma-Kathā "
+  },
+  {
+    "Code": "author.vatsyayana",
+    "Title": "वात्स्यायन | Vātsyāyana"
+  },
+  {
+    "Code": "text.charak.sanhita.06.indriy",
+    "Title": "चरकसंहिता इन्द्रियस्थानम्"
+  },
+  {
+    "Code": "purana.brahmanda.02.anushang",
+    "Title": "ब्रह्मांड पुराण अनुषंगपाद"
+  },
+  {
+    "Code": "text.mb.14.ashwamedha",
+    "Title": "महाभारत आश्वमेधिकपर्व"
+  },
+  {
+    "Code": "text.vedic.studian",
+    "Title": "वेदिशे. स्टूडियन. "
+  },
+  {
+    "Code": "text.ram.bharatiy",
+    "Title": "भारतीय रामायण"
+  },
+  {
+    "Code": "text.sukta.naradiy",
+    "Title": "नारदीय सूक्त"
+  },
+  {
+    "Code": "text.indiastudy",
+    "Title": "इन्डि. स्टुडि."
+  },
+  {
+    "Code": "purana.saura",
+    "Title": "Saura Purana"
+  },
+  {
+    "Code": "text.raghuvansh",
+    "Title": "रघुवंश"
+  },
+  {
+    "Code": "text.dashakumara-charita",
+    "Title": "Daśakumāra Charitra"
+  },
+  {
+    "Code": "text.nirnaysindhu",
+    "Title": "निर्णयसिंधु"
+  },
+  {
+    "Code": "text.harivansh.langlois",
+    "Title": "Harivaṃśa (Langlois' Translation)"
+  },
+  {
+    "Code": "author.colebrooke",
+    "Title": "Colebrooke"
+  },
+  {
+    "Code": "text.grifith",
+    "Title": "ऋग्वेद के सूक्त"
+  },
+  {
+    "Code": "text.chaitanyachandrodaya",
+    "Title": "Chaitanyachandrodaya"
+  },
+  {
+    "Code": "sutra.shrot.bharadwaj",
+    "Title": "भारद्वाजश्रौतसूत्र"
+  },
+  {
+    "Code": "text.anandlahari",
+    "Title": "Anandalaharî"
+  },
+  {
+    "Code": "text.shaktiratnakara",
+    "Title": "Śaktiratnākara"
+  },
+  {
+    "Code": "text.stotra.devi.lakshmihari",
+    "Title": "Lakṣmīlaharī Strotra"
+  },
+  {
+    "Code": "purana.padma.06.uttar",
+    "Title": "पद्मपुराण उत्तरखंड"
+  },
+  {
+    "Code": "text.paribhasendu-shekhara",
+    "Title": "Paribhasendu Shekhara"
+  },
+  {
+    "Code": "text.viracharia",
+    "Title": "Vīracarita"
+  },
+  {
+    "Code": "text.kavikalpataru",
+    "Title": "Kavikalpataru"
+  },
+  {
+    "Code": "text.sadgurushishya",
+    "Title": "Ṣaḍguruśiṣya"
+  },
+  {
+    "Code": "text.uttamacharitra",
+    "Title": "Uttamacaritra Kathānaka (Prose version)"
+  },
+  {
+    "Code": "text.priyadarsika",
+    "Title": "Priyadarsikâ "
+  },
+  {
+    "Code": "text.bhavaprakash",
+    "Title": "Bhavaprakasa."
+  },
+  {
+    "Code": "ved.shiksha.ALL",
+    "Title": "Śikṣā"
+  },
+  {
+    "Code": "text.ghatakarpara",
+    "Title": "Ghaṭakarpara"
+  },
+  {
+    "Code": "text.karika.gaudapada",
+    "Title": "Gauḍapāda Kārikā "
+  },
+  {
+    "Code": "text.rukmini.swayamvar",
+    "Title": "रुक्मिणी स्वयंवर"
+  },
+  {
+    "Code": "purana.skanda.01.maheshwar.03.aruna.00",
+    "Title": "स्कंदपुराण - माहेश्वर अरुणाचल महात्म्य"
+  },
+  {
+    "Code": "text.yogavashishtha",
+    "Title": "योगवासिष्ठ"
+  },
+  {
+    "Code": "text.hamsaduta",
+    "Title": "Hamsaduta"
+  },
+  {
+    "Code": "text.ramacharita",
+    "Title": "Ramacharitam"
+  },
+  {
+    "Code": "text.ram.01",
+    "Title": "Ramayana Part 1"
+  },
+  {
+    "Code": "text.kuvalayananda",
+    "Title": "Kuvalayânanda."
+  },
+  {
+    "Code": "brahman.taittiriy",
+    "Title": "तैत्तिरीय ब्राह्मण"
+  },
+  {
+    "Code": "purana.skanda.07.prabhas.04.dwarka",
+    "Title": "स्कंदपुराण प्रभास खंड द्वारकामाहात्म्य"
+  },
+  {
+    "Code": "purana.varah",
+    "Title": "वराहपुराण"
+  },
+  {
+    "Code": "author.pingalascholiast",
+    "Title": "Piṅgala Scholiast"
+  },
+  {
+    "Code": "text.vetalpanchvimasati",
+    "Title": "Vetálapancha Vimsati."
+  },
+  {
+    "Code": "dictionary.san.hans",
+    "Title": "हंस कोश"
+  },
+  {
+    "Code": "sanhita.bhrugu",
+    "Title": "भृगुसंहिता"
+  },
+  {
+    "Code": "brahman.adbhut",
+    "Title": "अद्भुत ब्राह्मण | Adbhuta Brāhmaṇa"
+  },
+  {
+    "Code": "author.sayana",
+    "Title": "सायणाचार्य | Sāyaṇa"
+  },
+  {
+    "Code": "text.bhandarkar",
+    "Title": "डाँ. भांडारकर, वैष्णविजम"
+  },
+  {
+    "Code": "dictionary.hin.adarsh",
+    "Title": "आदर्श हिंदी शब्दकोश"
+  },
+  {
+    "Code": "purana.vishnudharma",
+    "Title": "विष्णुधर्मोत्तर पुराण"
+  },
+  {
+    "Code": "text.mb.09.shalya",
+    "Title": "महाभारत शल्यपर्व"
+  },
+  {
+    "Code": "purana.bhavishya.03.pratisarg",
+    "Title": "भविष्यपुराण प्रतिसर्गपर्व"
+  },
+  {
+    "Code": "text.ram.anand.02.yatra",
+    "Title": "आनंदरामायण यात्राकांड"
+  },
+  {
+    "Code": "text.patanjali.yog",
+    "Title": "पातंजलयोगसूत्र / सांख्यप्रवचन"
+  },
+  {
+    "Code": "text.laghukaumudi",
+    "Title": "Laghukaumudī"
+  },
+  {
+    "Code": "text.mukundamala",
+    "Title": "Mukundamālā"
+  },
+  {
+    "Code": "text.yogayatra",
+    "Title": "Yogayatra"
+  },
+  {
+    "Code": "text.panchadashi.bharatitirtha",
+    "Title": "Panchadashi"
+  },
+  {
+    "Code": "text.yogshastra",
+    "Title": "योगशास्त्र"
+  },
+  {
+    "Code": "text.parashari.smriti",
+    "Title": "Parashara Smruti"
+  },
+  {
+    "Code": "text.kuttanimata",
+    "Title": "Kuṭṭanīmata"
+  },
+  {
+    "Code": "text.parnalaparvatagrahanaakhyana",
+    "Title": "Parnalaparvatagrahanaakhyana"
+  },
+  {
+    "Code": "sutra.dharma.vashishtha",
+    "Title": "वसिष्ठ धर्मसूत्र"
+  },
+  {
+    "Code": "dictionary.sa.kosh.girvana",
+    "Title": "Girvana Kosh"
+  },
+  {
+    "Code": "periodical.kalyan.gita.press",
+    "Title": "कल्याण गीता प्रेस"
+  },
+  {
+    "Code": "text.gita.govind",
+    "Title": "Gîtagovinda"
+  },
+  {
+    "Code": "text.madhyamavyayoya",
+    "Title": "Madhyamavyāyoya"
+  },
+  {
+    "Code": "text.roy.chaudhari",
+    "Title": "Studies in Indian Antiquities"
+  },
+  {
+    "Code": "upanishad.yogatattva",
+    "Title": "Yogatattva-upaniṣad"
+  },
+  {
+    "Code": "text.uttaradhyayan",
+    "Title": "जैनधर्मीय ‘उत्तराध्यायन सूत्र’"
+  },
+  {
+    "Code": "purana.skanda.01.maheshwar.03.aruna.02",
+    "Title": "स्कंदपुराण माहेश्वर अरुणाचल महात्म्य उत्तरार्ध"
+  },
+  {
+    "Code": "text.ram.anand.03.yaga",
+    "Title": "आनंदरामायण यागकाड"
+  },
+  {
+    "Code": "text.breton",
+    "Title": "Breton"
+  },
+  {
+    "Code": "text.Pañcaratra",
+    "Title": "Pañcarātra"
+  },
+  {
+    "Code": "upanishad.shira",
+    "Title": "Śira-upaniṣad"
+  },
+  {
+    "Code": "upanishad.saraswati.rahasya",
+    "Title": "सरस्वती रहस्योपनिषद"
+  },
+  {
+    "Code": "ved.atharva.translation.marathi",
+    "Title": "अथर्ववेद - मराठी अनुवाद"
+  },
+  {
+    "Code": "text.gi.ra",
+    "Title": "श्रीमद्भगवद्ग गीता रहस्य |Shrimad Bhagvad Gita Rahasya"
+  },
+  {
+    "Code": "text.bharat.savitri",
+    "Title": "भारतसावित्री"
+  },
+  {
+    "Code": "text.subhashitaratnabhandigara",
+    "Title": "Subhàshitaratnabhâṇdâgâra"
+  },
+  {
+    "Code": "text.ram.07",
+    "Title": "Ramayana Part 7"
+  },
+  {
+    "Code": "text.harivansh.02.vishnu",
+    "Title": "हरिवंश विष्णुपर्व"
+  },
+  {
+    "Code": "purana.padma.02.bhumi",
+    "Title": "पद्मपुराण भूमिखंड"
+  },
+  {
+    "Code": "text.dasopantanchi.pasodi",
+    "Title": "दासोपंतांची पासोडी"
+  },
+  {
+    "Code": "text.catalogue",
+    "Title": "Catalogue(s) "
+  },
+  {
+    "Code": "text.prataparudriya",
+    "Title": "Pratāparudrīya"
+  },
+  {
+    "Code": "purana.shiva.02.rudra.03.parvati",
+    "Title": "शिवपुराण रुद्र संहिता पार्वती खंड"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.06.shrimad",
+    "Title": "स्कंदपुराण वैष्णव खंड श्रीमद्भागवतमाहात्म्य"
+  },
+  {
+    "Code": "text.hopkins.up",
+    "Title": "हॉपकिन्स. उ.पु."
+  },
+  {
+    "Code": "text.lalitavistara",
+    "Title": "Lalitavistara."
+  },
+  {
+    "Code": "text.ram.yakobi",
+    "Title": "रामायण (डॉ. याकोबी)"
+  },
+  {
+    "Code": "text.panchadandacchattra-prabandha",
+    "Title": "Pañcadaṇḍacchattra-prabandha"
+  },
+  {
+    "Code": "sutra.brahma.bhashya",
+    "Title": "ब्रह्मसूत्र भाष्य"
+  },
+  {
+    "Code": "text.dnyanamodak",
+    "Title": "ज्ञानमोदक पोथी"
+  },
+  {
+    "Code": "author.nilakantha",
+    "Title": "नीलकंठ | Nīlakaṇṭha"
+  },
+  {
+    "Code": "text.suryaprajnapti",
+    "Title": "Sūryaprajñapti"
+  },
+  {
+    "Code": "author.mahidhara",
+    "Title": "महीधर | Mahīdhara"
+  },
+  {
+    "Code": "text.sarasvatikatabharana",
+    "Title": "Sarasvatîkaṇṭhâbharaṇa."
+  },
+  {
+    "Code": "text.sushruta",
+    "Title": "Susruta | सुश्रुत"
+  },
+  {
+    "Code": "author.grassmann",
+    "Title": "Grassmann"
+  },
+  {
+    "Code": "text.devi.gita",
+    "Title": "देवीगीता"
+  },
+  {
+    "Code": "text.ram.uttarramharita.06",
+    "Title": "Uttararàmacharita. Part 6"
+  },
+  {
+    "Code": "text.manavdharmasar",
+    "Title": "मानवधर्मसार"
+  },
+  {
+    "Code": "text.prasannaraghava",
+    "Title": "Prasannaraghava."
+  },
+  {
+    "Code": "text.mb.12.shanti.03.moksha",
+    "Title": "महाभारत शान्तिपर्व - मोक्षधर्म"
+  },
+  {
+    "Code": "purana.shiva.07.vayaviy",
+    "Title": "शिवपुराण वायवीयसंहिता"
+  },
+  {
+    "Code": "text.sharirabhashya",
+    "Title": "Sârîrabhâshya."
+  },
+  {
+    "Code": "text.mb.02.sabha",
+    "Title": "महाभारत सभापर्व"
+  },
+  {
+    "Code": "text.mantrashastra",
+    "Title": "मंत्रशास्त्र"
+  },
+  {
+    "Code": "text.sankhyakarika",
+    "Title": "Sânkhyakârikâ."
+  },
+  {
+    "Code": "text.mrichhakatik.kalidas",
+    "Title": "Mṛichchhakaṭika"
+  },
+  {
+    "Code": "upanishad.dhyanabindu",
+    "Title": "Dhyānabindu-upaniṣad"
+  },
+  {
+    "Code": "text.shandilya-bhaktisutra",
+    "Title": "Śāṇḍilya-bhaktisūtra "
+  },
+  {
+    "Code": "text.prachanda-pandava",
+    "Title": "Pracaṇḍa-pāṇḍava"
+  },
+  {
+    "Code": "text.vayu.stuti",
+    "Title": "वायुस्तुति"
+  },
+  {
+    "Code": "purana.brahma.vaivarta.01.brahma",
+    "Title": "ब्रह्मवैवर्तपुराण ब्रह्मखंड"
+  },
+  {
+    "Code": "text.kavyamala.kavyalankara",
+    "Title": "Kàvyàlamkàra "
+  },
+  {
+    "Code": "text.alankarasarvasva.mankhaka",
+    "Title": "Alaṃkārasarvasva, by Maṅkhaka"
+  },
+  {
+    "Code": "text.gita.shiv",
+    "Title": "Śivagītā, ascribed to the Padma-purāṇa"
+  },
+  {
+    "Code": "text.shankhyapravacana.kapila",
+    "Title": "Sāṃkhya-pravacana"
+  },
+  {
+    "Code": "sutra.brahma.bhashya.sharirak",
+    "Title": "ब्रह्मसूत्र शारीरकभाष्य"
+  },
+  {
+    "Code": "text.durgavilasa",
+    "Title": "Durgāvilāsa"
+  },
+  {
+    "Code": "text.kashika",
+    "Title": "काशिका"
+  },
+  {
+    "Code": "text.nanarthamanjari.raghav",
+    "Title": "Nanarthamanjari"
+  },
+  {
+    "Code": "text.ram.balaramayan",
+    "Title": "Bálarâmáyaṇa "
+  },
+  {
+    "Code": "text.mb.06.bhishma",
+    "Title": "महाभारत भीष्मपर्व"
+  },
+  {
+    "Code": "text.gita.tilak",
+    "Title": "Gitarahasya"
+  },
+  {
+    "Code": "text.tirtha-yatra",
+    "Title": "Tīrtha-yātrā"
+  },
+  {
+    "Code": "text.parashar.madhav",
+    "Title": "पराशर माधव"
+  },
+  {
+    "Code": "text.pusalkar",
+    "Title": "Studies in Epics in Puranas"
+  },
+  {
+    "Code": "text.kathasaritsagara",
+    "Title": "कथासरित्सागर"
+  },
+  {
+    "Code": "text.charak.sanhita",
+    "Title": "चरकसंहिता"
+  },
+  {
+    "Code": "text.naishadhacharita",
+    "Title": "Naishadhacharita"
+  },
+  {
+    "Code": "text.hatha-pra-dipika",
+    "Title": "Haṭha-pra-dīpikā "
+  },
+  {
+    "Code": "text.trikandasesha",
+    "Title": "Trikâṇḍasesha."
+  },
+  {
+    "Code": "sanhita.ashtavakra",
+    "Title": "Aṣṭāvakra Sanhitā"
+  },
+  {
+    "Code": "text.katharnava",
+    "Title": "Kathārṇava"
+  },
+  {
+    "Code": "text.indischestudien.weber",
+    "Title": "Indische Studien"
+  },
+  {
+    "Code": "text.bruhdevata",
+    "Title": "बृहद्देवता"
+  },
+  {
+    "Code": "text.UNKNOWN",
+    "Title": "UNKNOWN"
+  },
+  {
+    "Code": "text.geldner.rigved",
+    "Title": "गेल्डनर, ऋग्वेद ग्लॉसरी"
+  },
+  {
+    "Code": "text.stotra.shiv.mahimna",
+    "Title": "शिवमहिम्न: स्तोत्र."
+  },
+  {
+    "Code": "text.dnyanakand",
+    "Title": "ज्ञानकांड"
+  },
+  {
+    "Code": "text.manduki-shiksha",
+    "Title": "Māṇḍūkī-śikṣā"
+  },
+  {
+    "Code": "purana.skanda.07.prabhas",
+    "Title": "स्कंदपुराण प्रभास खंड"
+  },
+  {
+    "Code": "text.alankarkaustubha",
+    "Title": "Alaṃkārakaustubha"
+  },
+  {
+    "Code": "text.yadnyavalkya.smruti",
+    "Title": "याज्ञवल्क्य स्मृति | Bṛihadyogiyājñavalkya Smriti|Bṛhadyogiyājñavalkya Smṛiti"
+  },
+  {
+    "Code": "sutra.gruhya.sankhyayan",
+    "Title": "सांख्यायन गृह्यसूत्र"
+  },
+  {
+    "Code": "text.ram.anand.06.vivah",
+    "Title": "आनंदरामायण विवाहकांड"
+  },
+  {
+    "Code": "sanhita.kath",
+    "Title": "कठसंहिता"
+  },
+  {
+    "Code": "text.hist.snskrit",
+    "Title": "संस्कृत साहित्य का इतिहास"
+  },
+  {
+    "Code": "text.prayashchitta-tattva",
+    "Title": "Prāyaścitta-tattva"
+  },
+  {
+    "Code": "aranyak.sankhyayan",
+    "Title": "सांख्यायन आरण्यक"
+  },
+  {
+    "Code": "text.chatakashtaka",
+    "Title": "Chàtakâshṭaka "
+  },
+  {
+    "Code": "text.mahaviracharita",
+    "Title": "Mahaviracharita "
+  },
+  {
+    "Code": "text.neelkanth.tika",
+    "Title": "नीलकंठ टीका"
+  },
+  {
+    "Code": "brahman.shatapath",
+    "Title": "शतपथ ब्राह्मण (माध्यंदिन)"
+  },
+  {
+    "Code": "text.vajasaneyi.sanhita",
+    "Title": "Vajasaneyi Sanhita"
+  },
+  {
+    "Code": "dictionary.sa.kosh.dhatu-ratnakar",
+    "Title": "Dhatu Ratnakara"
+  },
+  {
+    "Code": "upanishad.yoga-sikha",
+    "Title": "Yogaśikhā-upaniṣad"
+  },
+  {
+    "Code": "text.kamasutra.vatsyana",
+    "Title": "Vatsyayana Kamasutra | वात्सायन - कामसूत्र"
+  },
+  {
+    "Code": "upanishad.taittiriy.02.brahma",
+    "Title": "तैत्तिरीय उपनिषद - ब्रह्मानन्दवल्ली"
+  },
+  {
+    "Code": "purana.sub.ALL",
+    "Title": "Upapurāṇa"
+  },
+  {
+    "Code": "sutra.narad.bhakti",
+    "Title": "नारद भक्ति सूत्र"
+  },
+  {
+    "Code": "text.supadma",
+    "Title": "Supadma "
+  },
+  {
+    "Code": "upanishad.nilarudra",
+    "Title": "Nīlarudra-upaniṣad"
+  },
+  {
+    "Code": "text.gita.ram",
+    "Title": "Rāmagītā"
+  },
+  {
+    "Code": "text.dharmasamagama",
+    "Title": "Dharmasaṃgraha"
+  },
+  {
+    "Code": "text.shakuntal.kalidas",
+    "Title": "Shakuntal"
+  },
+  {
+    "Code": "text.bhojacharitra",
+    "Title": "Bhojacaritra "
+  },
+  {
+    "Code": "text.goraksha-shataka",
+    "Title": "Gorakṣa-śataka"
+  },
+  {
+    "Code": "text.kavyamala.aryasaptasati",
+    "Title": "Aryasaptasati "
+  },
+  {
+    "Code": "text.charak.sanhita.06.kalpa",
+    "Title": "चरकसंहिता कल्पस्थानम्"
+  },
+  {
+    "Code": "text.bhaminivilas",
+    "Title": "Bhâminîvilâsa "
+  },
+  {
+    "Code": "text.vyakaran.mahabhashya",
+    "Title": "व्याकरण महाभाष्य"
+  },
+  {
+    "Code": "sutra.uttaradhyayan",
+    "Title": "उत्तराध्ययन"
+  },
+  {
+    "Code": "text.gruhyasamagraha",
+    "Title": "Gṛhyāsaṃgraha"
+  },
+  {
+    "Code": "text.taittiriy-pratishakhya",
+    "Title": "Taittirīya-prātiśākhya"
+  },
+  {
+    "Code": "text.rigvidhana",
+    "Title": "Ṛgvidhāna "
+  },
+  {
+    "Code": "text.mb.10.sauptika",
+    "Title": "महाभारत सौप्तिकपर्व"
+  },
+  {
+    "Code": "upanishad.kaivalya",
+    "Title": "कैवल्य उपनिषद"
+  },
+  {
+    "Code": "sutra.gruhya.manav",
+    "Title": "मानव गृह्यसूत्र"
+  },
+  {
+    "Code": "purana.nilamata",
+    "Title": "Nīlamata Purāṇa"
+  },
+  {
+    "Code": "text.mb.13.anushasana",
+    "Title": "महाभारत अनुशासनपर्व"
+  },
+  {
+    "Code": "text.stotra.ram.ramraksha",
+    "Title": "Ramraksha"
+  },
+  {
+    "Code": "text.studies-mughal.sarkar",
+    "Title": "Studies in Moghul India"
+  },
+  {
+    "Code": "text.indian.philosophy",
+    "Title": "इंदियन फिलॉसफी"
+  },
+  {
+    "Code": "text.ram.valmiki.05.sundar",
+    "Title": "वाल्मीकि रामायण सुंदरकांड"
+  },
+  {
+    "Code": "text.stotra.bhaktamara",
+    "Title": "Bhaktāmara-stotra"
+  },
+  {
+    "Code": "text.vopdeva",
+    "Title": "Vopadeva."
+  },
+  {
+    "Code": "text.kautukaratnakara",
+    "Title": "Kautukaratnākara"
+  },
+  {
+    "Code": "text.raghavapandaviya",
+    "Title": "Rāghavapāṇḍavīya"
+  },
+  {
+    "Code": "sutra.shrot.ashwalayan",
+    "Title": "आश्वलायन श्रौतसूत्र"
+  },
+  {
+    "Code": "text.pranshottar.ratnamalika",
+    "Title": "प्रश्नोत्तर - रत्नमालिका"
+  },
+  {
+    "Code": "purana.skanda.05.avanti.02.chaturshi",
+    "Title": "स्कंदपुराण अवंती खंड चतुरशीतिलिंगमाहात्म्य"
+  },
+  {
+    "Code": "sutra.shiva",
+    "Title": "Śivasūtrāṇi or Māheśvara Sūtrāṇi "
+  },
+  {
+    "Code": "author.ashvalayan",
+    "Title": "अश्वलायन  | Āśvalāyana"
+  },
+  {
+    "Code": "upanishad.mandukya",
+    "Title": "मांडुक्य उपनिषद"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.01.venkat",
+    "Title": "स्कंदपुराण वैष्णव खंड वेंकटाचल माहात्म्य"
+  },
+  {
+    "Code": "text.vasavadatta",
+    "Title": "Vāsavadattā"
+  },
+  {
+    "Code": "sanhita.taittiriy",
+    "Title": "तैत्तिरीयसंहिता"
+  },
+  {
+    "Code": "upanishad.kath",
+    "Title": "कठ उपनिषद"
+  },
+  {
+    "Code": "text.vikarmadityacharita.jain",
+    "Title": "Siṃhāsana-dvātriṃśikā or Vikramāditya-caritra, Jaina recension"
+  },
+  {
+    "Code": "text.sangita-sarasamgraha",
+    "Title": "Saṃgīta-sārasaṃgraha"
+  },
+  {
+    "Code": "author.shamkaracharya",
+    "Title": "आदि शंकराचार्य | Śaṃkarācārya | Shankaracharya"
+  },
+  {
+    "Code": "ved.som.parishishta",
+    "Title": "SomaVeda.Pariśiṣṭa "
+  },
+  {
+    "Code": "text.history-of-dharma.5",
+    "Title": "History of Dharamashastra Vol 5"
+  },
+  {
+    "Code": "sutra.baudhayan.pitrumedh",
+    "Title": "Baudhāyana Pitṛmedha Sūtra"
+  },
+  {
+    "Code": "text.parvatiprinaya",
+    "Title": "Pàrvatîpariṇaya."
+  },
+  {
+    "Code": "sutra.unadi",
+    "Title": "Uṇādi-sūtra"
+  },
+  {
+    "Code": "purana.shiva.03.shatarudra",
+    "Title": "शिवपुराण शतरुद्रसंहिता"
+  },
+  {
+    "Code": "text.ranade.upanishad",
+    "Title": "डॉ. रानडे, उपनिषद्रहस्य"
+  },
+  {
+    "Code": "text.malamasatattva",
+    "Title": "Malamāsatattva"
+  },
+  {
+    "Code": "purana.shiva.05.uma",
+    "Title": "शिवपुराण उमासंहिता"
+  },
+  {
+    "Code": "sutra.gruhya.ALL",
+    "Title": "Gṛhya-sūtra"
+  },
+  {
+    "Code": "text.ramkatha",
+    "Title": "रामकथा"
+  },
+  {
+    "Code": "text.purana-sarvasva",
+    "Title": "Purāṇa-sarvasva"
+  },
+  {
+    "Code": "text.ankashastra",
+    "Title": "अंकशास्त्र"
+  },
+  {
+    "Code": "text.panini.shiksha",
+    "Title": "Pāṇinīya-śikṣā"
+  },
+  {
+    "Code": "author.shlianka",
+    "Title": "शीलाङ्क | Śīlāṅka"
+  },
+  {
+    "Code": "text.bharatanatyashastra",
+    "Title": "Bharata Nāṭya Shastra | भरतनाटयशास्त्र"
+  },
+  {
+    "Code": "text.ganapatha",
+    "Title": "GaṇaPāṭha "
+  },
+  {
+    "Code": "purana.skanda.07.prabhas.01.prabhas",
+    "Title": "स्कंदपुराण प्रभास खंड प्रभासक्षेत्रमहात्म्य"
+  },
+  {
+    "Code": "text.parisishtaparva",
+    "Title": "Pariśiṣṭaparvan"
+  },
+  {
+    "Code": "text.divyavadana",
+    "Title": "Divyāvadāna"
+  },
+  {
+    "Code": "ved.atharv.paipalada",
+    "Title": "Atharva-veda, Paippalāda-śākhā"
+  },
+  {
+    "Code": "text.alankararatnakara",
+    "Title": "Alaṃkāraratnākara "
+  },
+  {
+    "Code": "text.sahendravilas",
+    "Title": "Śāhendravilāsa"
+  },
+  {
+    "Code": "aranyak.taittiriy",
+    "Title": "तैत्तिरीय आरण्यक"
+  },
+  {
+    "Code": "text.vruddha.chanakya",
+    "Title": "वृद्ध चाणक्य"
+  },
+  {
+    "Code": "text.mb.07.drona",
+    "Title": "महाभारत द्रोणपर्व"
+  },
+  {
+    "Code": "text.rajaprasato",
+    "Title": "Râjaprasasti."
+  },
+  {
+    "Code": "text.padankaduta",
+    "Title": "Padânkadūta."
+  },
+  {
+    "Code": "dictionary.sa.kosh.sadbachintamni",
+    "Title": "Sabdachintamani Dictionary"
+  },
+  {
+    "Code": "text.anandashram",
+    "Title": "आनंदाश्रम संग्रह"
+  },
+  {
+    "Code": "text.ram",
+    "Title": "Râmâyaṇa "
+  },
+  {
+    "Code": "purana.markandeya",
+    "Title": "Markandeya Purana"
+  },
+  {
+    "Code": "text.manasara",
+    "Title": "Manasara"
+  },
+  {
+    "Code": "text.dutavakyam.bhas",
+    "Title": "Dūtavākyam"
+  },
+  {
+    "Code": "author.none",
+    "Title": "Unidentified Author or Title"
+  },
+  {
+    "Code": "text.vastushastra",
+    "Title": "Vastushastra"
+  },
+  {
+    "Code": "author.sharangadhara",
+    "Title": "शार्णगाधर | Śārṅgadhara "
+  },
+  {
+    "Code": "text.devi.mahatmya",
+    "Title": "Devī-māhātmya"
+  },
+  {
+    "Code": "text.vastushastra.2",
+    "Title": "Vastushastra VOL II"
+  },
+  {
+    "Code": "text.paithinasismriti",
+    "Title": "Paiṭhīnasismṛti "
+  },
+  {
+    "Code": "text.maxmuller",
+    "Title": "Max Muller, Chips from a German Workshop "
+  },
+  {
+    "Code": "text.bharatiya.manasshastra",
+    "Title": "भारतीय मानसशास्त्र"
+  },
+  {
+    "Code": "text.subhashitavali",
+    "Title": "Subhâshitâvali "
+  },
+  {
+    "Code": "text.yugandariyana.pratijna",
+    "Title": "Pratijna Yaugandhariyana."
+  },
+  {
+    "Code": "text.Chaurapanchasika",
+    "Title": "Chaurapanchâsikâ."
+  },
+  {
+    "Code": "upanishad.kathashruti",
+    "Title": "Kaṇṭhaśruti-upaniṣad"
+  },
+  {
+    "Code": "text.royve",
+    "Title": "रॉंयल्मु. वे."
+  },
+  {
+    "Code": "text.ram.anand.08.manohar",
+    "Title": "आनंदरामायण मनोहरकांड"
+  },
+  {
+    "Code": "text.tajaka",
+    "Title": "Tājaka"
+  },
+  {
+    "Code": "brahman.panchavish",
+    "Title": "पंचविंश ब्राह्मण | Pañcaviṃśa Brāhmaṇa"
+  },
+  {
+    "Code": "upanishad.amritbindu",
+    "Title": "Amṛtabindu-upaniṣad"
+  },
+  {
+    "Code": "purana.aditya",
+    "Title": "Aditya Puran "
+  },
+  {
+    "Code": "text.malavikagnimitra.kalidas",
+    "Title": "Mâlavikâgnimitra"
+  },
+  {
+    "Code": "text.vishwagunadarshchampu",
+    "Title": "Vishwagunadarshachampu"
+  },
+  {
+    "Code": "text.hari-namamrta-vyakarana",
+    "Title": "Hari Nāmāmṛta Vyākaraṇā"
+  },
+  {
+    "Code": "text.daya-krama-sangraha",
+    "Title": "Dāya Krama Saṃgraha "
+  },
+  {
+    "Code": "text.smritichandrika",
+    "Title": "स्मृतिचंद्रिका"
+  },
+  {
+    "Code": "purana.brahma",
+    "Title": "ब्रह्मपुराण"
+  },
+  {
+    "Code": "ved.riga.ayu",
+    "Title": "आयुर्वेद"
+  },
+  {
+    "Code": "text.bhajyopa",
+    "Title": "भारतीय ज्यो. पा."
+  },
+  {
+    "Code": "text.mb.08.karna",
+    "Title": "महाभारत कर्णपर्व"
+  },
+  {
+    "Code": "sutra.brahma",
+    "Title": "ब्रह्मसूत्र"
+  },
+  {
+    "Code": "text.subhashitaratnakar",
+    "Title": "Subháshitaratnâkara "
+  },
+  {
+    "Code": "text.rasendrachintamani",
+    "Title": "Rasendracintāmaṇi"
+  },
+  {
+    "Code": "author.panini",
+    "Title": "Pāṇini | पाणिनि"
+  },
+  {
+    "Code": "aranyak.aiterey",
+    "Title": "ऐतरेय आरण्यक | Aitareya-āraṇyaka"
+  },
+  {
+    "Code": "text.chatushloki.bhagwat",
+    "Title": "चतुःश्लोकी भागवत"
+  },
+  {
+    "Code": "sutra.chanda",
+    "Title": "Chandaḥ Sūtra"
+  },
+  {
+    "Code": "text.gupta.shila",
+    "Title": "गुप्त शिलालेख"
+  },
+  {
+    "Code": "text.rajwade",
+    "Title": "वै.का.राजवाडे.भा.इ.सं. मं. इतिवृत."
+  },
+  {
+    "Code": "text.sukhavati-vyuha",
+    "Title": "Sukhāvatī-vyūha"
+  },
+  {
+    "Code": "text.ram.03",
+    "Title": "Ramayana Part 3"
+  },
+  {
+    "Code": "sutra.gruhya.satyashadh",
+    "Title": "सत्याषाढ गृह्यसूत्र"
+  },
+  {
+    "Code": "text.vidagdhamukhamandana",
+    "Title": "Vidagdhamukhamaṇḍana."
+  },
+  {
+    "Code": "text.karanda-vyuha",
+    "Title": "Kāraṇḍa-vyūha"
+  },
+  {
+    "Code": "text.nalopakhyana",
+    "Title": "Nalopâkhyâna "
+  },
+  {
+    "Code": "text.buddhacharita",
+    "Title": "अश्वघोष-‘बुद्धचरित’"
+  },
+  {
+    "Code": "text.saddharma-pundarika",
+    "Title": "Saddharma-puṇḍarīka"
+  },
+  {
+    "Code": "text.chaturvarga-chintamani",
+    "Title": "Hemādri's Caturvarga-cintāmaṇi"
+  },
+  {
+    "Code": "brahman.kaushitaki",
+    "Title": "कौशीतकी ब्राह्मण | Kauṣītaki Brāhmaṇa"
+  },
+  {
+    "Code": "purana.skanda.03.brahma.02.dharmaranya",
+    "Title": "स्कंदपुराण ब्रह्म खंड धर्मारण्यखंड"
+  },
+  {
+    "Code": "author.vishvanathadaivadnya",
+    "Title": "विश्वनाथ दैवज्ञ | Viśvanātha Daivajña"
+  },
+  {
+    "Code": "text.pargiter",
+    "Title": "पार्गि."
+  },
+  {
+    "Code": "text.prahasana-nataka",
+    "Title": "Prahasana-nāṭaka"
+  },
+  {
+    "Code": "text.hari-namamrta-vyakarana.commentary",
+    "Title": "Commentary on Bṛhad Hari Nāmāmṛta Vyākaraṇā"
+  },
+  {
+    "Code": "text.ram.anand.05.janma",
+    "Title": "आनंदरामायण जन्मकांड"
+  },
+  {
+    "Code": "ved.atharva.pratishakhya",
+    "Title": "अथर्ववेद प्रतिशाख्य"
+  },
+  {
+    "Code": "text.prabodhchndrodaya",
+    "Title": "Prabodhachandrodaya"
+  },
+  {
+    "Code": "text.mb.upasanhar",
+    "Title": "महाभारत उपसंहार"
+  },
+  {
+    "Code": "text.mohamudgara",
+    "Title": "Mohamudgara."
+  },
+  {
+    "Code": "dictionary.mar.kosh.prachin.aitihasik",
+    "Title": "भारत वर्षीय प्राचीन ऐतिहासिक कोश"
+  },
+  {
+    "Code": "sutra.shrot.apastambh",
+    "Title": "आपस्तंब श्रौतसूत्र"
+  },
+  {
+    "Code": "purana.skanda.06.nagar",
+    "Title": "स्कंदपुराण नागर खंड"
+  },
+  {
+    "Code": "upanishad.shetashwatar",
+    "Title": "श्वेताश्वतर उपनिषद"
+  },
+  {
+    "Code": "ved.atharva.artha",
+    "Title": "गांधर्ववेद"
+  },
+  {
+    "Code": "text.moksha.gita",
+    "Title": "मोक्ष गीता"
+  },
+  {
+    "Code": "text.goladhyaya",
+    "Title": "Golâdhyàya"
+  },
+  {
+    "Code": "text.vrataprakash",
+    "Title": "Vrata-prakāśa "
+  },
+  {
+    "Code": "author.namdev",
+    "Title": "संत नामदेव | Namdev"
+  },
+  {
+    "Code": "text.smrititattva",
+    "Title": "Smṛtitattva"
+  },
+  {
+    "Code": "author.savarkar",
+    "Title": "विनायक दामोदर सावरकर | Vinayak Damodar Savarkar"
+  },
+  {
+    "Code": "text.rasalila",
+    "Title": "Rāsalīlā"
+  },
+  {
+    "Code": "text.katha.kalpataru",
+    "Title": "कथाकल्पतरु"
+  },
+  {
+    "Code": "purana.nandi",
+    "Title": "Nandi Purana"
+  },
+  {
+    "Code": "text.ram.uttarramharita.01",
+    "Title": "Uttararàmacharita. Part 1"
+  },
+  {
+    "Code": "purana.vaman.01.purva",
+    "Title": "पूर्वार्ध"
+  },
+  {
+    "Code": "text.sataka.bhartrihari",
+    "Title": "Bhartṛihari's three Satakas  | भर्तृहरि नीतिशतकम"
+  },
+  {
+    "Code": "text.tantrasara",
+    "Title": "Tantrasāra"
+  },
+  {
+    "Code": "text.govinda",
+    "Title": "Govinda"
+  },
+  {
+    "Code": "text.vedantaparibhasha",
+    "Title": "Vedântaparibhâshâ."
+  },
+  {
+    "Code": "author.jaimini",
+    "Title": "जमिनी | Jaimini"
+  },
+  {
+    "Code": "purana.vaman.02.uttar",
+    "Title": "उत्तरार्ध"
+  },
+  {
+    "Code": "text.sangeet.ratnakar",
+    "Title": "संगीतरत्नाकर"
+  },
+  {
+    "Code": "text.pichell",
+    "Title": "पिशेल, वेदि. स्टुडि."
+  },
+  {
+    "Code": "author.vaman.pandit",
+    "Title": "वामन पंडित"
+  },
+  {
+    "Code": "text.setubandha",
+    "Title": "Setubandha"
+  },
+  {
+    "Code": "text.kabir.dohavali",
+    "Title": "कबीर दोहावली"
+  },
+  {
+    "Code": "text.aitihasik.goshti",
+    "Title": "ऐतिहासिक गोष्टी"
+  },
+  {
+    "Code": "text.yavaneshvara",
+    "Title": "Yavaneśvara "
+  },
+  {
+    "Code": "author.hala",
+    "Title": "हाल | Hāla"
+  },
+  {
+    "Code": "brahman.jaimini",
+    "Title": "जैमिनीय ब्राह्मण | Jaiminīya-brāhmaṇa"
+  },
+  {
+    "Code": "purana.shiva.01.vidya",
+    "Title": "शिवपुराण विद्येश्वर संहिता"
+  },
+  {
+    "Code": "text.nidansutra",
+    "Title": "निदानसूत्र"
+  },
+  {
+    "Code": "text.dnyanvashishtha",
+    "Title": "Jñānavāsiṣṭha"
+  },
+  {
+    "Code": "text.bharatiy.darshansangrah",
+    "Title": "भारतीय दर्शनसंग्रह"
+  },
+  {
+    "Code": "text.tatva.chintamnai",
+    "Title": "तत्त्वचितामणि "
+  },
+  {
+    "Code": "text.jaimeniy.aiteriy",
+    "Title": "जैमिनि ऐतरेय"
+  },
+  {
+    "Code": "purana.skanda.04.kashi.01.purva",
+    "Title": "स्कंदपुराण काशी खंड पूर्वार्ध"
+  },
+  {
+    "Code": "text.dathadhatuvansh",
+    "Title": "Dāṭhādhātu Vansha"
+  },
+  {
+    "Code": "brahman.sankhyayan",
+    "Title": "सांख्यायन ब्राह्मण"
+  },
+  {
+    "Code": "author.bhoja",
+    "Title": "भोज | Bhoja"
+  },
+  {
+    "Code": "text.ram.uttar",
+    "Title": "Uttar Ramayana"
+  },
+  {
+    "Code": "text.gurudattayog",
+    "Title": "श्रीगुरुदत्तयोग"
+  },
+  {
+    "Code": "purana.brahma.vaivarta.04.krishna",
+    "Title": "ब्रह्मवैवर्तपुराण कृष्णजन्म खंड"
+  },
+  {
+    "Code": "text.parvati-parinaya",
+    "Title": "Pārvatī-pariṇaya"
+  },
+  {
+    "Code": "text.krishnakarnamrta",
+    "Title": "Kṛṣṇakarṇāmṛta"
+  },
+  {
+    "Code": "text.papabuddhidharmabuddhikathanaka",
+    "Title": "Pāpabuddhidharmabuddhikathānaka"
+  },
+  {
+    "Code": "text.katha.ALL",
+    "Title": "Kāṭhaka"
+  },
+  {
+    "Code": "text.pratimanatakam",
+    "Title": "प्रतिमानाटकम्"
+  },
+  {
+    "Code": "upanishad.tejobindu",
+    "Title": "तेजोबिन्दु उपनिषद्"
+  },
+  {
+    "Code": "text.priyadarshika",
+    "Title": "Priyadarśikā"
+  },
+  {
+    "Code": "text.karvir.mahatmya",
+    "Title": "करवीरमाहात्म्य"
+  },
+  {
+    "Code": "text.srutabodha.kalidas",
+    "Title": "Srutabodha."
+  },
+  {
+    "Code": "dictionary.mar.kosh.maharashtra",
+    "Title": "महाराष्ट्र शब्दकोश"
+  },
+  {
+    "Code": "text.wisdom-india.yutang",
+    "Title": "The Wisdom of India"
+  },
+  {
+    "Code": "text.dharmarahasya",
+    "Title": "दप्तरीकृत धर्मरहस्य"
+  },
+  {
+    "Code": "sutra.gruhya.jaimini",
+    "Title": "जैमिनिगृह्यसूत्र"
+  },
+  {
+    "Code": "sutra.gruhya.gobhil",
+    "Title": "गोभिल गृह्यसूत्र"
+  },
+  {
+    "Code": "text.sanyukta.nikay.0.0",
+    "Title": "संयुक्त निकाय"
+  },
+  {
+    "Code": "sutra.anupad",
+    "Title": "अनुपद सूत्र"
+  },
+  {
+    "Code": "text.ram.valmiki.06.yuddha",
+    "Title": "वाल्मीकि रामायण युद्धकांड"
+  },
+  {
+    "Code": "text.stotra.hastamalaka",
+    "Title": "Hastāmalaka Stotra"
+  },
+  {
+    "Code": "text.shukasaptati",
+    "Title": "Śukasaptati"
+  },
+  {
+    "Code": "text.mahabhashya",
+    "Title": "महाभाष्य"
+  },
+  {
+    "Code": "text.mugdhabodha",
+    "Title": "Mugdhabodha."
+  },
+  {
+    "Code": "purana.brahma.vaivarta.03.ganapati",
+    "Title": "ब्रह्मवैवर्तपुराण गणपति खंड"
+  },
+  {
+    "Code": "text.nyayamala-vistara",
+    "Title": "Nyāyamālā-vistara"
+  },
+  {
+    "Code": "text.kavyadarsh",
+    "Title": "Kâvyâdarsa."
+  },
+  {
+    "Code": "upanishad.atharvasikha",
+    "Title": "Atharvaśikhā-upaniṣad"
+  },
+  {
+    "Code": "purana.nrusinha",
+    "Title": "नृसिंहपुराण"
+  },
+  {
+    "Code": "text.kumarsambhava",
+    "Title": "Kumârasambhava"
+  },
+  {
+    "Code": "text.yogavashishtha-sara",
+    "Title": "Yogavāsiṣṭha-sāra"
+  },
+  {
+    "Code": "text.shivaleela",
+    "Title": "शिवलीला"
+  },
+  {
+    "Code": "purana.vayu",
+    "Title": "वायुपुराण"
+  },
+  {
+    "Code": "text.ananta-sanhita",
+    "Title": "Ananta-saṃhitā"
+  },
+  {
+    "Code": "text.mantramahodadhi",
+    "Title": "Mantramahodadhi"
+  },
+  {
+    "Code": "text.shivabharat",
+    "Title": "Sivabharata | शिवभारत"
+  },
+  {
+    "Code": "upanishad.amritanadopanishad",
+    "Title": "अमृतनादोपनिषद्"
+  },
+  {
+    "Code": "sutra.kalpa",
+    "Title": "Kalpa-sūtra"
+  },
+  {
+    "Code": "text.karanda-vyuha.recension",
+    "Title": "metrical recension of the text Kāraṇḍa-vyūha"
+  },
+  {
+    "Code": "text.aparark",
+    "Title": "अपरार्क"
+  },
+  {
+    "Code": "text.kalachkra",
+    "Title": "Kālacakra"
+  },
+  {
+    "Code": "purana.bhavishya.02.madhyam",
+    "Title": "भविष्यपुराण मध्यमपर्व"
+  },
+  {
+    "Code": "text.jaimini.ashwamedh",
+    "Title": "जैमिनि अश्वमेध"
+  },
+  {
+    "Code": "text.charak.sanhita.03.nidan",
+    "Title": "चरकसंहिता निदानस्थानम्"
+  },
+  {
+    "Code": "text.chhandshatra",
+    "Title": "पिंगल छन्दःशास्त्र"
+  },
+  {
+    "Code": "text.suparnadhyaya",
+    "Title": "Suparṇādhyāya"
+  },
+  {
+    "Code": "text.pandav.pratap",
+    "Title": "पांडवप्रताप"
+  },
+  {
+    "Code": "ved.rigaved.sanhita",
+    "Title": "ऋग्वेद | Rugved Sanhita"
+  },
+  {
+    "Code": "text.vansha-brahmana",
+    "Title": "Vaṃśa-brāhmaṇa"
+  },
+  {
+    "Code": "text.suprabhedagama",
+    "Title": "Suprabhedāgama"
+  },
+  {
+    "Code": "text.bhagwat.eknath",
+    "Title": "एकनाथी भागवत"
+  },
+  {
+    "Code": "dictionary.sa.kosh.sadbakalpadruma",
+    "Title": "Sabdakalpadruma Dictionary"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.09.vasudev",
+    "Title": "स्कंदपुराण वैष्णव खंड वासुदेवमाहात्म्य"
+  },
+  {
+    "Code": "text.panchadandacchattra-prabandha.recension",
+    "Title": "Pañcadaṇḍacchattra-prabandha, metrical recension"
+  },
+  {
+    "Code": "text.chandraloka",
+    "Title": "Chandrâloka."
+  },
+  {
+    "Code": "sutra.dharma.gautam",
+    "Title": "गौतम धर्मसूत्र"
+  },
+  {
+    "Code": "text.suvarnaprabhasa",
+    "Title": "Suvarṇaprabhāsa"
+  },
+  {
+    "Code": "text.riktantravyakarana",
+    "Title": "Ṛktantravyākaraṇa "
+  },
+  {
+    "Code": "text.nitipradipa",
+    "Title": "Nitipradipa."
+  },
+  {
+    "Code": "text.abhidhanchintamani.hemachandracharya",
+    "Title": "अभिधानचिन्तामणि"
+  },
+  {
+    "Code": "author.wilson",
+    "Title": "Works of Horace H. Wilson"
+  },
+  {
+    "Code": "text.charak.sanhita.01.chikitsa",
+    "Title": "चरकसंहिता चिकित्सास्थान"
+  },
+  {
+    "Code": "text.dasatir",
+    "Title": "दसतिर"
+  },
+  {
+    "Code": "sutra.shrot.latyayan",
+    "Title": "लाट्यायन श्रौतसूत्र"
+  },
+  {
+    "Code": "text.ghatakarparakavya",
+    "Title": "Ghaṭakarparakàvya."
+  },
+  {
+    "Code": "text.pitamah.smruti",
+    "Title": "पितामहस्मृति"
+  },
+  {
+    "Code": "text.sharngadhara.paddhati",
+    "Title": "Śārṅgadhara-paddhati"
+  },
+  {
+    "Code": "text.alankarasarvasva.ruyyaka",
+    "Title": "Alaṃkārasarvasva, by Ruyyaka"
+  },
+  {
+    "Code": "sutra.vedanta",
+    "Title": "वेदान्तसूत्र"
+  },
+  {
+    "Code": "text.todarananda",
+    "Title": "Ṭoḍarānanda"
+  },
+  {
+    "Code": "puran.markandeya",
+    "Title": "मार्केंडेय पुराण"
+  },
+  {
+    "Code": "purana.kurma",
+    "Title": "कूर्मपुराण"
+  },
+  {
+    "Code": "text.charak.sanhita.06.siddhi",
+    "Title": "चरकसंहिता सिद्धिस्थानम्"
+  },
+  {
+    "Code": "upanishad.taittiriy",
+    "Title": "तैत्तिरीय उपनिषद"
+  },
+  {
+    "Code": "sutra.barhaspatya",
+    "Title": "बार्हस्पत्यसूत्रम"
+  },
+  {
+    "Code": "text.dharmasindhu",
+    "Title": "धर्मसिंधु"
+  },
+  {
+    "Code": "text.shrutabodha",
+    "Title": "Śrutabodha"
+  },
+  {
+    "Code": "text.shivaratnam",
+    "Title": "शिवरत्नम्"
+  },
+  {
+    "Code": "text.daivata-brahmana",
+    "Title": "Daivata-brāhmaṇa"
+  },
+  {
+    "Code": "purana.skanda.03.brahma",
+    "Title": "स्कंदपुराण ब्रह्म खंड"
+  },
+  {
+    "Code": "text.meghadoot.kalidas",
+    "Title": "Meghadūta"
+  },
+  {
+    "Code": "text.ram.valmiki.07.uttar",
+    "Title": "वाल्मीकि रामायण उत्तरकांड"
+  },
+  {
+    "Code": "author.bhartrahari",
+    "Title": "भर्तृहरि | Bhartṛhari"
+  },
+  {
+    "Code": "dictionary.sa.kosh.sadbakalpadruma.nadiprakash",
+    "Title": "Nāḍīprakāśa in Śabdakalpadruma"
+  },
+  {
+    "Code": "sutra.ALL",
+    "Title": "Sûtra| सूत्र"
+  },
+  {
+    "Code": "upanishad.kaushitki",
+    "Title": "कौषीतकि उपनिषद"
+  },
+  {
+    "Code": "sanhita.ashwalayan",
+    "Title": "Āśvalāyana Sākhoktā Mantra Saṃhitā"
+  },
+  {
+    "Code": "text.sahityadarpan",
+    "Title": "Sâhityadarpaṇa."
+  },
+  {
+    "Code": "text.oldenburg.vedic",
+    "Title": "ओल्डेनबर्ग, वैदिक रिलिजन"
+  },
+  {
+    "Code": "text.krishi.parashar",
+    "Title": "कृषिपाराशर"
+  },
+  {
+    "Code": "text.charan-vyuha",
+    "Title": "Caraṇa-vyūha"
+  },
+  {
+    "Code": "dictionary.sa.kosh.galano",
+    "Title": "Demetrius Galanos's Lexiko: sanskritikes, anglikes, hellenikes"
+  },
+  {
+    "Code": "text.shankara-vijaya",
+    "Title": "Śaṃkara-vijaya"
+  },
+  {
+    "Code": "text.padmanjari",
+    "Title": "हरिदत्त पदमंजरी"
+  },
+  {
+    "Code": "text.grahayajnya-tattva",
+    "Title": "Grahayajña-tattva"
+  },
+  {
+    "Code": "sutra.pushpa",
+    "Title": "Puṣpa-sūtra"
+  },
+  {
+    "Code": "text.unadisutras",
+    "Title": "Uṇâdisūtras."
+  },
+  {
+    "Code": "text.dharmabhyudayamahakavya",
+    "Title": "Dharmābhyudayamahākāvya"
+  },
+  {
+    "Code": "text.mb.03.vana.21.aranya",
+    "Title": "महाभारत वनपर्व - Aranya"
+  },
+  {
+    "Code": "text.vansh.brahman",
+    "Title": "वंश ब्राह्मण"
+  },
+  {
+    "Code": "text.uddhavaduta",
+    "Title": "Uddhavadūta."
+  },
+  {
+    "Code": "text.shukraniti",
+    "Title": "Sukraniti"
+  },
+  {
+    "Code": "text.avimaraka.bhas",
+    "Title": "Avimāraka|Avimārakam|Avimārkam"
+  },
+  {
+    "Code": "text.mallaprakasha",
+    "Title": "Mallaprakāśa"
+  },
+  {
+    "Code": "sutra.vaitana",
+    "Title": "Vaitāna-sūtra"
+  },
+  {
+    "Code": "text.deeghanikay",
+    "Title": "दीघनिकाय"
+  },
+  {
+    "Code": "upanishad.hansa",
+    "Title": "Haṃsa-upaniṣad"
+  },
+  {
+    "Code": "purana.shiva.06.kailas",
+    "Title": "शिवपुराण कैलाससंहिता"
+  },
+  {
+    "Code": "sutra.shrot.ALL",
+    "Title": "Śrauta-sūtra"
+  },
+  {
+    "Code": "text.boudhha.darshan.jyotish",
+    "Title": "बौद्धदर्शन"
+  },
+  {
+    "Code": "text.darshan.prakash",
+    "Title": "दर्शनप्रकाश"
+  },
+  {
+    "Code": "text.datta.mahatmya",
+    "Title": "दत्त माहात्म्य"
+  },
+  {
+    "Code": "text.shiva.sanhita",
+    "Title": "शिवसंहिता"
+  },
+  {
+    "Code": "text.dandavivek.vardhaman",
+    "Title": "दण्डविवेक"
+  },
+  {
+    "Code": "sutra.dharma.aap",
+    "Title": "आपस्तंबधर्मसूत्र"
+  },
+  {
+    "Code": "text.tattvasamasa",
+    "Title": "Tattvasamāsa"
+  },
+  {
+    "Code": "text.sanhita-upanishad-brahmana",
+    "Title": "Saṃhitā-upaniṣad-brāhmaṇa"
+  },
+  {
+    "Code": "text.Iliad",
+    "Title": "Iliad "
+  },
+  {
+    "Code": "text.gudharth.chandrika",
+    "Title": "गूढार्थ चंद्रिका"
+  },
+  {
+    "Code": "purana.skanda.01.maheshwar.02.kumarika",
+    "Title": "स्कंदपुराण माहेश्वर कौमारिका खंड"
+  },
+  {
+    "Code": "text.vajracchedika",
+    "Title": "Vajracchedikā"
+  },
+  {
+    "Code": "text.anguttar",
+    "Title": "अंगुत्तर"
+  },
+  {
+    "Code": "text.bhattikavya",
+    "Title": "Bhattikavya"
+  },
+  {
+    "Code": "text.purushottama-tattva",
+    "Title": "Puruṣottama-tattva"
+  },
+  {
+    "Code": "text.anukramanika.ALL",
+    "Title": "Anukramaṇikās"
+  },
+  {
+    "Code": "text.ram.valmiki.03.aranya",
+    "Title": "वाल्मीकि रामायण अरण्यकांड"
+  },
+  {
+    "Code": "text.ujjavaldatta",
+    "Title": "Ujjvaladatta."
+  },
+  {
+    "Code": "ved.yaju.krishna",
+    "Title": "Krishna Yajurveda"
+  },
+  {
+    "Code": "text.ram.02",
+    "Title": "Ramayana Part 2"
+  },
+  {
+    "Code": "upanishad.shukarahasya",
+    "Title": "शुकरहस्योपनिषद्"
+  },
+  {
+    "Code": "text.vikramorvasiyam.kalidas",
+    "Title": "Vikramorvasîyam "
+  },
+  {
+    "Code": "dictionary.sa.kosh.medini",
+    "Title": "Medinîkosha"
+  },
+  {
+    "Code": "text.rasatarangini",
+    "Title": "Rasataraṃgiṇī"
+  },
+  {
+    "Code": "text.ram.06",
+    "Title": "Ramayana Part 6"
+  },
+  {
+    "Code": "text.loka-prakasha",
+    "Title": "Loka-prakāśa "
+  },
+  {
+    "Code": "text.shastra.yoga.hemachandra",
+    "Title": "Hemacandra's Yoga-śāstra"
+  },
+  {
+    "Code": "sutra.gruhya.bouddha",
+    "Title": "बौ. गृह्मसूत्र"
+  },
+  {
+    "Code": "text.padapatha",
+    "Title": "Padapāṭha"
+  },
+  {
+    "Code": "text.krishnakridita",
+    "Title": "Kṛṣṇakrīḍita "
+  },
+  {
+    "Code": "upanishad.pashupat",
+    "Title": "पाशुपत ब्राह्मणोपनिषद् | Pāśupata Brāhmaṇopaniṣad"
+  },
+  {
+    "Code": "text.tarkakaumudi",
+    "Title": "Tarkakaumudî"
+  },
+  {
+    "Code": "text.vakyapadiya",
+    "Title": "Vâkyapadîya."
+  },
+  {
+    "Code": "brahman.ALL",
+    "Title": "ब्राह्मण | Brâhmana"
+  },
+  {
+    "Code": "sutra.lankavatara",
+    "Title": "Laṅkāvatāra-sūtra"
+  },
+  {
+    "Code": "text.kalakacharya-kathanaka",
+    "Title": "Kālakācārya-kathānaka"
+  },
+  {
+    "Code": "text.harivansh",
+    "Title": "हरिवंश"
+  },
+  {
+    "Code": "brahman.samvidhan",
+    "Title": "सामविधान ब्राह्मण"
+  },
+  {
+    "Code": "author.mallinatha",
+    "Title": "मल्लिनाथ | Mallinātha"
+  },
+  {
+    "Code": "purana.shiva.02.rudra.01.srushti",
+    "Title": "शिवपुराण रुद्र संहिता सृष्टि खंड"
+  },
+  {
+    "Code": "author.vagbhat",
+    "Title": "वाग्भट | Vagbhat"
+  },
+  {
+    "Code": "text.dhutangada",
+    "Title": "Dūtāṅgada"
+  },
+  {
+    "Code": "upanishad.brahmavidya",
+    "Title": "ब्रह्मविद्योपनिषद्"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.07.vaishakh",
+    "Title": "स्कंदपुराण वैष्णव खंड वैशाखमासमाहात्म्य"
+  },
+  {
+    "Code": "text.horashastra",
+    "Title": "Horāśāstra"
+  },
+  {
+    "Code": "text.dhananjayvijay",
+    "Title": "Dhananjayavijaya"
+  },
+  {
+    "Code": "text.panini.nisutra",
+    "Title": "पाणिनिसूत्र - अध्याय, पाद, सूत्र"
+  },
+  {
+    "Code": "text.sudhalahari",
+    "Title": "Sudhâlaharî"
+  },
+  {
+    "Code": "text.rudrayamala",
+    "Title": "Rudrayāmala"
+  },
+  {
+    "Code": "text.ayeen-akbery",
+    "Title": "Ayeen Akbery"
+  },
+  {
+    "Code": "text.dhanurved.sangrah",
+    "Title": "धनुर्वेदसंग्रह"
+  },
+  {
+    "Code": "purana.padma.07.kriya",
+    "Title": "पद्मपुराण क्रियायोग"
+  },
+  {
+    "Code": "text.smritikaumudi",
+    "Title": "Smṛtikaumudī"
+  },
+  {
+    "Code": "text.mallinatha",
+    "Title": "Mallinátha."
+  },
+  {
+    "Code": "text.rupachandrika",
+    "Title": "Rupa Chandrika"
+  },
+  {
+    "Code": "text.aryan.indica",
+    "Title": "अरियन इंडिका"
+  },
+  {
+    "Code": "text.sarasvati-kanthabharana.kshemendra",
+    "Title": "Sarasvatī-kaṇṭhābharaṇa, by Kṣemendra"
+  },
+  {
+    "Code": "text.amrutanubhav.saarrahasya",
+    "Title": "अनुभवामृत - साररहस्य"
+  },
+  {
+    "Code": "text.bharatiya.tatvadnyan",
+    "Title": "भारतीय तत्त्वज्ञान"
+  },
+  {
+    "Code": "author.vasishtha",
+    "Title": "वसिष्ठ | Vasiṣṭha"
+  },
+  {
+    "Code": "upanishad.taittiriy.01.shiksha",
+    "Title": "तैत्तिरीय उपनिषद - शिक्षावल्ली"
+  },
+  {
+    "Code": "text.eknath.darshan",
+    "Title": "एकनाथ दर्शन"
+  },
+  {
+    "Code": "text.lilavati",
+    "Title": "Lîlâvatî"
+  },
+  {
+    "Code": "text.dayatattva",
+    "Title": "Dāyatattva"
+  },
+  {
+    "Code": "sutra.shrot.bauddhayan",
+    "Title": "बौधायन श्रौतसूत्र"
+  },
+  {
+    "Code": "sutra.gruhya.khadir",
+    "Title": "खादिर गृह्यसूत्र"
+  },
+  {
+    "Code": "purana.skanda.05.avanti.01.avanti",
+    "Title": "स्कंदपुराण अवंती खंड अवंतीक्षेत्रमाहात्म्य"
+  },
+  {
+    "Code": "text.indian.onti",
+    "Title": "इन्डि. ऑन्टि."
+  },
+  {
+    "Code": "text.divyajivan",
+    "Title": "दिव्यजीवन"
+  },
+  {
+    "Code": "text.padyasamgraha",
+    "Title": "Padyasaṃgraha"
+  },
+  {
+    "Code": "text.amrutanubhav.kaumudi",
+    "Title": "अमृतानुभव - कौमुदी"
+  },
+  {
+    "Code": "text.mb.15.ashramavasika",
+    "Title": "महाभारत आश्रमवासिक पर्व"
+  },
+  {
+    "Code": "sanhita.agastya",
+    "Title": "Agastya Sanhitā"
+  },
+  {
+    "Code": "sutra.unadi.vritti",
+    "Title": "Uṇādi-vṛtti"
+  },
+  {
+    "Code": "text.aryavidya-sudhakara",
+    "Title": "Āryavidyā-sudhākara"
+  },
+  {
+    "Code": "text.kanda-kaushik",
+    "Title": "Caṇḍa-kauśika"
+  },
+  {
+    "Code": "text.paramartha-sara",
+    "Title": "Paramārtha-sāra"
+  },
+  {
+    "Code": "text.kramadipika",
+    "Title": "Kramadīpikā"
+  },
+  {
+    "Code": "text.kavyalankaravritti",
+    "Title": "Kāvyālaṅkāravṛitti."
+  },
+  {
+    "Code": "text.ram.uttarramharita.03",
+    "Title": "Uttararàmacharita. Part 3"
+  },
+  {
+    "Code": "smruti.daksha",
+    "Title": "दक्षस्मृति"
+  },
+  {
+    "Code": "author.patanjali",
+    "Title": "Patañjali"
+  },
+  {
+    "Code": "text.drishtantasataka",
+    "Title": "Dṛishṭântasataka"
+  },
+  {
+    "Code": "purana.vahni",
+    "Title": "Vahni Purāṇa"
+  },
+  {
+    "Code": "text.mb.18.swargarohanika",
+    "Title": "महाभारत स्वर्गारोहणपर्व"
+  },
+  {
+    "Code": "text.ram.04",
+    "Title": "Ramayana Part 4"
+  },
+  {
+    "Code": "brahman.mantra",
+    "Title": "मन्त्रब्राह्मण | Mantra-brāhmaṇa"
+  },
+  {
+    "Code": "text.kavyachandrika",
+    "Title": "Kāvyacandrikā"
+  },
+  {
+    "Code": "text.harivarada",
+    "Title": "हरिवरदा"
+  },
+  {
+    "Code": "text.vagbhata",
+    "Title": "Vagbhata."
+  },
+  {
+    "Code": "text.yoga.sutrabhashya",
+    "Title": "योगसूत्रभाष्य"
+  },
+  {
+    "Code": "text.viramitrodaya",
+    "Title": "Vîramitrodaya."
+  },
+  {
+    "Code": "purana.skanda.03.brahma.01.setu",
+    "Title": "स्कंदपुराण ब्रह्म खंड सेतुमाहात्म्य"
+  },
+  {
+    "Code": "sutra.ashtang",
+    "Title": "अष्टांगसंग्रहसूत्र"
+  },
+  {
+    "Code": "puran.garuda.brahmakand",
+    "Title": "गरुडपुराण ब्रह्मकांड"
+  },
+  {
+    "Code": "text.shantikalpa",
+    "Title": "Śāntikalpa"
+  },
+  {
+    "Code": "text.dhanurveda",
+    "Title": "Dhanurveda Samhita | जामदग्न्य धनुर्वेद "
+  },
+  {
+    "Code": "text.budhacharitam",
+    "Title": "Buddhacharitam"
+  },
+  {
+    "Code": "text.amrutanubhav",
+    "Title": "अमृतानुभव"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.04.karthik",
+    "Title": "स्कंदपुराण वैष्णव खंड कार्तिकमासमाहात्म्य"
+  },
+  {
+    "Code": "text.shankara-vijaya.sankshep",
+    "Title": "Saṃkṣepa-śaṃkara-vijaya"
+  },
+  {
+    "Code": "dictionary.maharashtriy.dyan",
+    "Title": "महाराष्ट्रीय ज्ञान कोश"
+  },
+  {
+    "Code": "text.nidana.vachaspati",
+    "Title": "Nidāna"
+  },
+  {
+    "Code": "author.shakatayana",
+    "Title": "शाकटायन | Śākaṭāyana"
+  },
+  {
+    "Code": "dictionary.mar.sanskriti",
+    "Title": "भारतीय संस्कृति कोश"
+  },
+  {
+    "Code": "purana.ganesha",
+    "Title": "गणेशपुराण"
+  },
+  {
+    "Code": "text.mb.05.udyoga",
+    "Title": "महाभारत उद्योगपर्व"
+  },
+  {
+    "Code": "text.bhojaprabandha",
+    "Title": "Bhojaprabandha"
+  },
+  {
+    "Code": "purana.shiva.02.rudra.02.sati",
+    "Title": "शिवपुराण रुद्र संहिता सती खंड"
+  },
+  {
+    "Code": "text.dharmaviveka",
+    "Title": "Dharmaviveka."
+  },
+  {
+    "Code": "purana.matsya",
+    "Title": "Matsya Purana"
+  },
+  {
+    "Code": "text.vyavaharamayukha",
+    "Title": "Vyavahâramayùkha "
+  },
+  {
+    "Code": "text.vyavharmatruka",
+    "Title": "व्यवहारमातृका"
+  },
+  {
+    "Code": "ved.atharv.bloomfield",
+    "Title": "ब्लूमफिल्ड अथर्ववेद"
+  },
+  {
+    "Code": "text.bhasharatnaprabha.govindanand",
+    "Title": "Govindānanda's Bhāṣyaratnaprabhā"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav",
+    "Title": "स्कंदपुराण वैष्णव खंड"
+  },
+  {
+    "Code": "dictionary.sa.kosh.apte",
+    "Title": "The Practical Sanskrit-English Dictionary"
+  },
+  {
+    "Code": "purana.bhavishya.uttar",
+    "Title": "भविष्योत्तर पुराण"
+  },
+  {
+    "Code": "text.mb.muktewar",
+    "Title": "मुक्तेश्वरी महाभारत"
+  },
+  {
+    "Code": "purana.narada",
+    "Title": "नारद पुराण"
+  },
+  {
+    "Code": "purana.bhavishya",
+    "Title": "भविष्यपुराण"
+  },
+  {
+    "Code": "sutra.bhashika",
+    "Title": "Bhāśika Sūtra"
+  },
+  {
+    "Code": "text.sarvadarshana-sangraha",
+    "Title": "Sarvadarśana-saṃgraha"
+  },
+  {
+    "Code": "text.bharatmanjari",
+    "Title": "Bharatmajari"
+  },
+  {
+    "Code": "text.kuran",
+    "Title": "कुराण | कुरान | Quran"
+  },
+  {
+    "Code": "purana.brahmanda",
+    "Title": "ब्रह्मांड पुराण"
+  },
+  {
+    "Code": "author.eknath",
+    "Title": "संत एकनाथ | Eknath"
+  },
+  {
+    "Code": "upanishad.ishavasya",
+    "Title": "ईशावास्य उपनिषद"
+  },
+  {
+    "Code": "text.koshthipradipa",
+    "Title": "Koṣṭhīpradīpa"
+  },
+  {
+    "Code": "text.hasta-ratnavali",
+    "Title": "Hasta-ratnāvalī "
+  },
+  {
+    "Code": "author.kabir",
+    "Title": "कबीर | Kabir"
+  },
+  {
+    "Code": "text.hopkins.ts",
+    "Title": "हॉपकिन्स. टा. सा."
+  },
+  {
+    "Code": "text.bilhanacharitam",
+    "Title": "Bilhanacharitam."
+  },
+  {
+    "Code": "text.stotra.ganesh",
+    "Title": "Ganesh Stotra"
+  },
+  {
+    "Code": "text.vastu.ratnakosh",
+    "Title": "वस्तुरत्नकोश"
+  },
+  {
+    "Code": "text.acharratna",
+    "Title": "आचाररत्न"
+  },
+  {
+    "Code": "text.mb.03.vana",
+    "Title": "महाभारत वनपर्व"
+  },
+  {
+    "Code": "text.stotra.kalyanmandira",
+    "Title": "Kalyāṇamandira-stotra"
+  },
+  {
+    "Code": "text.shrikantha-charita",
+    "Title": "Śrīkaṇṭha-carita"
+  },
+  {
+    "Code": "text.chaurapanchshikh.bilhana",
+    "Title": "Caurapañcāśikā"
+  },
+  {
+    "Code": "text.dhurtasamagama",
+    "Title": "Dhūrtasamâgama."
+  },
+  {
+    "Code": "text.anangaranga",
+    "Title": "Anaṅgaraṅga"
+  },
+  {
+    "Code": "text.hayana-ratna.balabhadra",
+    "Title": "Hāyana-ratna, by Balabhadra"
+  },
+  {
+    "Code": "text.tantravartik",
+    "Title": "तन्त्रवार्तिक"
+  },
+  {
+    "Code": "text.panchatantra",
+    "Title": "Panchatantra | पंचतंत्र"
+  },
+  {
+    "Code": "text.rajamartanda",
+    "Title": "Rājamārtaṇḍa "
+  },
+  {
+    "Code": "sanhita.manaviya",
+    "Title": "Saura-purāṇa - Mānavīya Sanhitā"
+  },
+  {
+    "Code": "text.yashastilaka",
+    "Title": "Yaśastilaka."
+  },
+  {
+    "Code": "brahman.tandya",
+    "Title": "तांड्य ब्राह्मण | प्रौढ ब्राह्मण"
+  },
+  {
+    "Code": "text.nyaya-philisophy",
+    "Title": "Nyāya Philosophy"
+  },
+  {
+    "Code": "text.bharatiya.samrajya",
+    "Title": "भारतीय साम्राज्य"
+  },
+  {
+    "Code": "text.ram.valmiki.02.ayodhya",
+    "Title": "वाल्मीकि रामायण अयोध्याकांड"
+  },
+  {
+    "Code": "author.apastamba",
+    "Title": "आपस्तम्ब | Apastamba "
+  },
+  {
+    "Code": "dictionary.mar.du",
+    "Title": "दुर्बोध शब्द कोश"
+  },
+  {
+    "Code": "text.panini.vyakaran",
+    "Title": "पाणिनि व्याकरण"
+  },
+  {
+    "Code": "text.venisanhara",
+    "Title": "Veṇîsamhâra."
+  },
+  {
+    "Code": "author.harita",
+    "Title": "हरित | Hārīta"
+  },
+  {
+    "Code": "text.mahanataka",
+    "Title": "Mahânâṭaka."
+  },
+  {
+    "Code": "author.katyayana",
+    "Title": "कात्यायन | Kātyāyana"
+  },
+  {
+    "Code": "text.vaijayanti",
+    "Title": "महादेव दिक्षित् - वैजयंती"
+  },
+  {
+    "Code": "brahman.gopath",
+    "Title": "गोपथ ब्राह्मण | Gopatha-brāhmaṇa"
+  },
+  {
+    "Code": "text.stotra.charpat-panjrika",
+    "Title": "Charpat Panjrika Stotra | चर्पटपञ्जरिका "
+  },
+  {
+    "Code": "text.mudrarakshasa.vishakhdatta",
+    "Title": "Mudrârâkshasa "
+  },
+  {
+    "Code": "text.nutanamrut",
+    "Title": "नूतनामृत सागर"
+  },
+  {
+    "Code": "text.dharmasarmabhyudaya",
+    "Title": "Dharmaśarmābhyudaya"
+  },
+  {
+    "Code": "text.ganaratnamahodadhi",
+    "Title": "Gaṇaratnamahodadhi"
+  },
+  {
+    "Code": "text.parshvanatha-charitra",
+    "Title": "Pārśvanātha-caritra"
+  },
+  {
+    "Code": "text.prayogamarta",
+    "Title": "Prayogāmṛta"
+  },
+  {
+    "Code": "text.matangalila",
+    "Title": "Matangalila of Nilakantha."
+  },
+  {
+    "Code": "text.ram.valmiki.04.kishkindha",
+    "Title": "वाल्मीकि रामायण किष्किंधाकांड"
+  },
+  {
+    "Code": "sutra.shrot.ALL",
+    "Title": "Śrauta Sūtra"
+  },
+  {
+    "Code": "text.panini.ashtadhyayi",
+    "Title": "Pâṇini's Ashṭâdhyâyî."
+  },
+  {
+    "Code": "text.ram.anand.04.vilas",
+    "Title": "आनंदरामायण विलासकांड"
+  },
+  {
+    "Code": "text.gautam",
+    "Title": "गौतम"
+  },
+  {
+    "Code": "text.alankaratilaka",
+    "Title": "Alaṃkāratilaka"
+  },
+  {
+    "Code": "text.ram.uttarramharita.02",
+    "Title": "Uttararàmacharita. Part 2"
+  },
+  {
+    "Code": "text.kiritikaumudi",
+    "Title": "Kirtikaumudi,"
+  },
+  {
+    "Code": "text.Sarvadarsanasamgraha",
+    "Title": "Sarvadarsanasamgraha."
+  },
+  {
+    "Code": "dictionary.mar.kosh.vakspraday",
+    "Title": "मराठी वाक्संप्रदाय - वाक्यप्रचार कोश"
+  },
+  {
+    "Code": "text.yadavbhudaya",
+    "Title": "Yādavābhyudaya "
+  },
+  {
+    "Code": "text.devi.bhagawat",
+    "Title": "देवी भागवत"
+  },
+  {
+    "Code": "text.vaiseshika",
+    "Title": "Vaiseshika."
+  },
+  {
+    "Code": "text.mb.11.stri",
+    "Title": "महाभारत स्त्रीपर्व"
+  },
+  {
+    "Code": "text.jras",
+    "Title": "Journal of Royal Asian Society"
+  },
+  {
+    "Code": "text.rasikaramana",
+    "Title": "Rasikaramaṇa"
+  },
+  {
+    "Code": "sutra.shrot.shulba",
+    "Title": "Śulba-sūtra"
+  },
+  {
+    "Code": "upanishad.jaimini",
+    "Title": "जैमिनीय उपनिषद - ब्राह्मण"
+  },
+  {
+    "Code": "text.gangalahari",
+    "Title": "Gangâlaharî"
+  },
+  {
+    "Code": "purana.skanda.05.avanti.03.reva",
+    "Title": "स्कंदपुराण अवंती खंड रेवाखंड"
+  },
+  {
+    "Code": "upanishad.rama-tapaniya",
+    "Title": "Rāmatāpanīya-upaniṣad"
+  },
+  {
+    "Code": "upanishad.chhandogya",
+    "Title": "छांदोग्य उपनिषद"
+  },
+  {
+    "Code": "text.sanskarasharirak",
+    "Title": "Śaṃkara's Śārīraka-mīmāṃsā on Bādarāyaṇa's Brahma-sūtras"
+  },
+  {
+    "Code": "text.chanakyasataka",
+    "Title": "Châṇakyasataka."
+  },
+  {
+    "Code": "sutra.gruhya.hiranyakhan",
+    "Title": "Hiraṇyakeśin's Gṛhya-sūtra"
+  },
+  {
+    "Code": "text.sanhita.sut",
+    "Title": "सूतसंहिता"
+  },
+  {
+    "Code": "upanishad.narada",
+    "Title": "Nārada pari Upanishad"
+  },
+  {
+    "Code": "text.abhiramamani",
+    "Title": "Abhirāmamaṇi "
+  },
+  {
+    "Code": "text.harshcharitra",
+    "Title": "Harshacharita."
+  },
+  {
+    "Code": "text.madanavinoda",
+    "Title": "Madanavinoda"
+  },
+  {
+    "Code": "text.dattakachandrika",
+    "Title": "Dattakacandrikā "
+  },
+  {
+    "Code": "upanishad.narad.parivraj",
+    "Title": "नारदपरिव्राजकोपनिषद"
+  },
+  {
+    "Code": "text.ram.tulasi",
+    "Title": "Tulasīdāsa Rāmāyaṇa"
+  },
+  {
+    "Code": "text.dasbodh",
+    "Title": "Dasbodh"
+  },
+  {
+    "Code": "text.vasantika",
+    "Title": "Vāsantikā"
+  },
+  {
+    "Code": "upanishad.garbha",
+    "Title": "Garbha Upaniṣad"
+  },
+  {
+    "Code": "text.shiva.tatvaratnakar",
+    "Title": "शिवतत्त्वरत्नाकर"
+  },
+  {
+    "Code": "text.bhadrabahu.charitra",
+    "Title": "Bhadrabāhu-caritra"
+  },
+  {
+    "Code": "text.kshitisha-vamshavali-charita",
+    "Title": "Kṣitīśa-vaṃśāvalī-carita"
+  },
+  {
+    "Code": "author.chanakya",
+    "Title": "चाणक्य | कौटिल्य | विष्णुगुप्त| Chanakya"
+  },
+  {
+    "Code": "author.abhinava-gupta",
+    "Title": "अभिनव गुप्ता | Abhinav Gupta"
+  },
+  {
+    "Code": "text.ramapujasarani",
+    "Title": "Rāmapūjāsaraṇi"
+  },
+  {
+    "Code": "text.gita.kapil",
+    "Title": "कपिलगीता"
+  },
+  {
+    "Code": "text.chandakausika",
+    "Title": "Chaṇḍakausika."
+  },
+  {
+    "Code": "text.kavyaprakash",
+    "Title": "Kávyaprakâsa."
+  },
+  {
+    "Code": "text.abhidhan",
+    "Title": "हेमचंद्र के ‘अभिधानचिंतामणि’"
+  },
+  {
+    "Code": "sanhita.maitrayani",
+    "Title": "मैत्रायणी संहिता"
+  },
+  {
+    "Code": "text.ullan.sushrut",
+    "Title": "उल्लणकृत ‘सुश्रुत संहिता टीका’ सू."
+  },
+  {
+    "Code": "text.ram.valmiki.01.bala",
+    "Title": "वाल्मीकि रामायण बालकांड"
+  },
+  {
+    "Code": "text.burgen",
+    "Title": "बर्गेन"
+  },
+  {
+    "Code": "purana.shiva",
+    "Title": "शिवपुराण"
+  },
+  {
+    "Code": "sanhita.brihat",
+    "Title": "बृहत्संहिता."
+  },
+  {
+    "Code": "text.charak.sanhita.04.viman",
+    "Title": "चरकसंहिता विमानस्थानम्"
+  },
+  {
+    "Code": "text.madanaparijata",
+    "Title": "Madanapārijāta "
+  },
+  {
+    "Code": "author.varaha-mihira",
+    "Title": "वराहमिहीर | Varāha Mihira "
+  },
+  {
+    "Code": "text.jatakamala",
+    "Title": "Jātakamālā"
+  },
+  {
+    "Code": "aranyak.kaushitaki",
+    "Title": "कौषीतकि आरण्यक |Kauṣītaki-āraṇyaka"
+  },
+  {
+    "Code": "text.inscription.stupa.sarnath",
+    "Title": "Sārnāth Inscrip. of Mahīpāla; Ind. Ant. Vol.14, p.14."
+  },
+  {
+    "Code": "purana.brahma.vaivarta",
+    "Title": "ब्रह्मवैवर्तपुराण"
+  },
+  {
+    "Code": "text.ram.uttarramharita.04",
+    "Title": "Uttararàmacharita. Part 4"
+  },
+  {
+    "Code": "text.Indianwisdom.monier",
+    "Title": "Indian Wisdom, by Sir M. Monier-Williams"
+  },
+  {
+    "Code": "sutra.shrot.satyashadh",
+    "Title": "सत्याषाढ श्रौतसूत्र"
+  },
+  {
+    "Code": "text.ashtadhyayi",
+    "Title": "अष्टाध्यायी"
+  },
+  {
+    "Code": "text.shikshapattri",
+    "Title": "Śikṣāpattrī"
+  },
+  {
+    "Code": "purana.padma.05.patal",
+    "Title": "पद्मपुराण पातालखंड"
+  },
+  {
+    "Code": "text.krushisangraha",
+    "Title": "Kṛṣisaṃgraha"
+  },
+  {
+    "Code": "text.kavyamala.anargharaghava",
+    "Title": "Anargharâghava"
+  },
+  {
+    "Code": "text.phetkarini-tantra",
+    "Title": "Phetkāriṇī-tantra"
+  },
+  {
+    "Code": "upanishad.mukti",
+    "Title": "Muktikopanishad"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.03.vadarika",
+    "Title": "स्कंदपुराण वैष्णव खंड वदरिकाश्रम माहात्म्य"
+  },
+  {
+    "Code": "text.hari-namamrta-vyakarana.brihat",
+    "Title": "Bṛhad Hari Nāmāmṛta Vyākaraṇā"
+  },
+  {
+    "Code": "text.sarasvativilas",
+    "Title": "सरस्वतीविलास"
+  },
+  {
+    "Code": "text.vedantsara",
+    "Title": "Vedāntasāra"
+  },
+  {
+    "Code": "text.charak.sanhita.02.sutra",
+    "Title": "चरकसंहिता सूत्रस्थानम्"
+  },
+  {
+    "Code": "text.sankhyapravachana",
+    "Title": "Sāṃkhyapravacana"
+  },
+  {
+    "Code": "puran.ALL",
+    "Title": "Purâna | पुराण"
+  },
+  {
+    "Code": "author.madhusudana",
+    "Title": "मधुसूदन | Madhusūdana"
+  },
+  {
+    "Code": "text.ram.05",
+    "Title": "Ramayana Part 5"
+  },
+  {
+    "Code": "text.naha-vyutpatti",
+    "Title": "Mahā-vyutpatti "
+  },
+  {
+    "Code": "text.kamikagama",
+    "Title": "Kamikagama"
+  },
+  {
+    "Code": "text.karnamruta.saduki",
+    "Title": "Sadukti-karṇāmṛta"
+  },
+  {
+    "Code": "text.dasarupa",
+    "Title": "Dasarūpa "
+  },
+  {
+    "Code": "text.siddhantshiromani",
+    "Title": "Siddhântasiromaṇi"
+  },
+  {
+    "Code": "dictionary.hin.prachincharitrakosh",
+    "Title": "प्राचीन चरित्रकोश"
+  },
+  {
+    "Code": "upanishad.brahma",
+    "Title": "Brahma-upaniṣad"
+  },
+  {
+    "Code": "text.ratnavali",
+    "Title": "Ratnâvalî"
+  },
+  {
+    "Code": "dictionary.sa.kosh.macdonell",
+    "Title": "Sanskrit English Dictionary"
+  },
+  {
+    "Code": "purana.brahmanda.03.upodghat",
+    "Title": "ब्रह्मांड पुराण उपोदघात पाद"
+  },
+  {
+    "Code": "purana.skanda.01.maheshwar",
+    "Title": "स्कंदपुराण माहेश्वर खंड"
+  },
+  {
+    "Code": "purana.skanda.01.maheshwar.01.kedar",
+    "Title": "स्कंदपुराण माहेश्वर केदारखंड"
+  },
+  {
+    "Code": "text.dasakumaracharita",
+    "Title": "Dasakumâracharita"
+  },
+  {
+    "Code": "ved.atharv.pari",
+    "Title": "अथर्ववेद परिशिष्ट"
+  },
+  {
+    "Code": "text.dnyanamrut",
+    "Title": "ज्ञानामृत"
+  },
+  {
+    "Code": "text.naighantuka",
+    "Title": "Naighaṇṭuka, commented on by Yāska"
+  },
+  {
+    "Code": "dictionary.sa.kosh.sadbakalpadruma.matsyasukta",
+    "Title": "Matsyasūkta in Śabdakalpadruma"
+  },
+  {
+    "Code": "text.sayana",
+    "Title": "Sayana."
+  },
+  {
+    "Code": "sutra.nyaya",
+    "Title": "Nyāyasūtra "
+  },
+  {
+    "Code": "text.malatimadhava",
+    "Title": "Malatimadhava"
+  },
+  {
+    "Code": "purana.shiva.05.uma.02.uttar",
+    "Title": "शिवपुराण उमासंहिता उत्तरार्ध"
+  },
+  {
+    "Code": "purana.bhavishya.03.uttar",
+    "Title": "भविष्यपुराण उत्तरपर्व"
+  },
+  {
+    "Code": "smruti.vruddh.gautam",
+    "Title": "वृद्ध गौतमस्मृति"
+  },
+  {
+    "Code": "purana.brahmanda.04.upsanhar",
+    "Title": "ब्रह्मांड पुराण उपसंहार पाद"
+  },
+  {
+    "Code": "purana.vaman",
+    "Title": "वामनपुराण"
+  },
+  {
+    "Code": "purana.brahma.vaivarta.02.prakruti",
+    "Title": "ब्रह्मवैवर्तपुराण प्रकृति खंड"
+  },
+  {
+    "Code": "text.pratishakhya.upalekha",
+    "Title": "Upalekha"
+  },
+  {
+    "Code": "text.vrindavansataka",
+    "Title": "Vṛindâvanasataka."
+  },
+  {
+    "Code": "purana.skanda.04.kashi",
+    "Title": "स्कंदपुराण काशी खंड"
+  },
+  {
+    "Code": "text.mimamsa",
+    "Title": "Mîmâmsâ."
+  },
+  {
+    "Code": "text.tatvarth.sutra",
+    "Title": "तत्त्वार्थ सूत्र "
+  },
+  {
+    "Code": "upanishad.rama",
+    "Title": "Ram Upanishad"
+  },
+  {
+    "Code": "text.darshana.yog",
+    "Title": "Yogadarśana"
+  },
+  {
+    "Code": "sutra.shrot.katyayana",
+    "Title": "Kātyāyana Srauta Sūtra"
+  },
+  {
+    "Code": "text.mb.16.mausala",
+    "Title": "महाभारत मौसलपर्व"
+  },
+  {
+    "Code": "purana.agni",
+    "Title": "अग्निपुराण"
+  },
+  {
+    "Code": "ved.ALL",
+    "Title": "Veda, Vedic"
+  },
+  {
+    "Code": "ved.pratishakhya.taittiriy",
+    "Title": "तैत्तिरीय प्रतिशाख्य"
+  },
+  {
+    "Code": "purana.shiva.02.rudra.05.yuddha",
+    "Title": "शिवपुराण रुद्र संहिता युद्ध खंड"
+  },
+  {
+    "Code": "text.rasgangadhara",
+    "Title": "Rasagangâdhara "
+  },
+  {
+    "Code": "sanhita.bharadwaj",
+    "Title": "भारद्वाज सँहिता"
+  },
+  {
+    "Code": "text.parashari.shiksha",
+    "Title": "पाराशरी शिक्षा"
+  },
+  {
+    "Code": "text.dnyaneshwari.gudharth",
+    "Title": "ज्ञानेश्वरी गूढार्थदीपिका"
+  },
+  {
+    "Code": "text.siddhanta-kaumudi",
+    "Title": "Siddhânta-Kaumudî "
+  },
+  {
+    "Code": "upanishad.nrusimha-tapaniya",
+    "Title": "Nṛsiṃha-tāpanīya-upaniṣad"
+  },
+  {
+    "Code": "text.mb.dakshin",
+    "Title": "Mahabharata Dākṣiṇātya Pāṭha"
+  },
+  {
+    "Code": "author.tukaram",
+    "Title": "संत तुकाराम | Tukaram"
+  },
+  {
+    "Code": "text.buddhist.ALL",
+    "Title": "Buddhist literature"
+  },
+  {
+    "Code": "text.guru.charitra",
+    "Title": "गुरुचरित्र"
+  },
+  {
+    "Code": "text.hemachandra",
+    "Title": "Hemachandra."
+  },
+  {
+    "Code": "aranyak.ALL",
+    "Title": "आरण्यक | Āraṇyaka"
+  },
+  {
+    "Code": "purana.shiva.05.uma.01.purva",
+    "Title": "शिवपुराण उमासंहिता पूर्वार्ध"
+  },
+  {
+    "Code": "purana.shiva.02.rudra",
+    "Title": "शिवपुराण रुद्र संहिता"
+  },
+  {
+    "Code": "text.ganratna",
+    "Title": "गणरत्न महोदधि"
+  },
+  {
+    "Code": "sutra.shrot.manav",
+    "Title": "मानवश्रौतसूत्र"
+  },
+  {
+    "Code": "dictionary.sa.kosh.vachaspatyam",
+    "Title": "Târânâtha's Vàchaspatyam Dictionary"
+  },
+  {
+    "Code": "text.tithyaditya",
+    "Title": "Tithyāditya"
+  },
+  {
+    "Code": "text.sutravali",
+    "Title": "आह्निक सूत्रावालि"
+  },
+  {
+    "Code": "author.kshemendra",
+    "Title": "क्षेमेन्द्र | Kṣemendra"
+  },
+  {
+    "Code": "upanishad.ken",
+    "Title": "केन उपनिषद"
+  },
+  {
+    "Code": "text.rajatrangini",
+    "Title": "Râjatarangiṇî."
+  },
+  {
+    "Code": "text.gita.bhagvad",
+    "Title": "Bhagavadgîtâ | श्रीमद्भगवद्गीता"
+  },
+  {
+    "Code": "text.ram.anand.09.purna",
+    "Title": "आनंदरामायण पूर्णकांड"
+  },
+  {
+    "Code": "purana.shiva.04.kotirudra",
+    "Title": "शिवपुराण कोटिरुद्रसंहिता"
+  },
+  {
+    "Code": "text.vastuvidya",
+    "Title": "Vāstuvidyā"
+  },
+  {
+    "Code": "text.atandak",
+    "Title": "अतांडक"
+  },
+  {
+    "Code": "text.ved.rigved.ludwig",
+    "Title": "ऋगवेद अनुवाद (लुडविग)"
+  },
+  {
+    "Code": "text.gaya-mahatmya",
+    "Title": "Gayā-māhātmya"
+  },
+  {
+    "Code": "text.tarkasangraha",
+    "Title": "Tarkasamgraha "
+  },
+  {
+    "Code": "text.sarvanukramani",
+    "Title": "कात्ययनकृत सर्वानुक्रमणी."
+  },
+  {
+    "Code": "upanishad.bindu.ALL",
+    "Title": "बिन्दु उपनिषद्"
+  },
+  {
+    "Code": "text.panchagranthi",
+    "Title": "पंचग्रंथी"
+  },
+  {
+    "Code": "sutra.gruhya.ashwalayan.parishishta",
+    "Title": "Āśvalāyana Gruhya Pariśiṣṭa"
+  },
+  {
+    "Code": "text.saundaryalahari",
+    "Title": "Saundaryalaharī | Sundaralaharī"
+  },
+  {
+    "Code": "text.mitakshara",
+    "Title": "मिताक्षरा"
+  },
+  {
+    "Code": "text.vrittaratnakara",
+    "Title": "Vṛittaratnâkara."
+  },
+  {
+    "Code": "brahman.shadvish",
+    "Title": "षडविंश ब्राह्मण"
+  },
+  {
+    "Code": "text.naishkarmya",
+    "Title": "नैष्कर्म्यसिद्धि"
+  },
+  {
+    "Code": "purana.bhavishya.01.brahma",
+    "Title": "भविष्यपुराण ब्राह्मपर्व"
+  },
+  {
+    "Code": "dictionary.sa.kosh.halayudha",
+    "Title": "Haláyudha"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.08.ayodhya",
+    "Title": "स्कंदपुराण वैष्णव खंड अयोध्यामाहात्म्य"
+  },
+  {
+    "Code": "text.ram.kruttivas",
+    "Title": "कृत्तिवास रामायण"
+  },
+  {
+    "Code": "ved.riga",
+    "Title": "ऋग्वेद"
+  },
+  {
+    "Code": "text.Inscriptions",
+    "Title": "Inscriptions "
+  },
+  {
+    "Code": "text.charudatta.bhas",
+    "Title": "Chārudatta"
+  },
+  {
+    "Code": "text.yogachintamani",
+    "Title": "योगचिंतामणि"
+  },
+  {
+    "Code": "text.charak.sanhita.05.sharir",
+    "Title": "चरकसंहिता शारीरस्थानम्"
+  },
+  {
+    "Code": "text.champubharatam",
+    "Title": "Bharatachampu"
+  },
+  {
+    "Code": "purana.skanda.XX.sahyadri",
+    "Title": "स्कंदपुराण (Skanda Purāṇa) - Sahyādri khaṇḍa"
+  },
+  {
+    "Code": "text.renuka.mahatmya",
+    "Title": "रेणुकामाहात्म्य"
+  },
+  {
+    "Code": "text.nitisara",
+    "Title": "Nîtisâra."
+  },
+  {
+    "Code": "text.vaishnava-dharma-shastra",
+    "Title": "Viṣṇu-smṛti / Viṣṇu-sūtra / Vaiṣṇava-dharma-śāstra"
+  },
+  {
+    "Code": "purana.shiva.02.rudra.04.kumar",
+    "Title": "शिवपुराण रुद्र संहिता कुमार खंड"
+  },
+  {
+    "Code": "text.oldenburg",
+    "Title": "ओल्डेनबर्ग"
+  },
+  {
+    "Code": "text.khandaprashasti",
+    "Title": "Khaṇḍapraśasti"
+  },
+  {
+    "Code": "sutra.gruhya.hiranyakhan",
+    "Title": "Hiraṇyakeśin's Gruhya Sūtra"
+  },
+  {
+    "Code": "text.mb.04.virata",
+    "Title": "महाभारत विराटपर्व"
+  },
+  {
+    "Code": "text.ram.valmiki",
+    "Title": "वाल्मीकि रामायण"
+  },
+  {
+    "Code": "ved.sam",
+    "Title": "सामवेद"
+  },
+  {
+    "Code": "text.kadambari",
+    "Title": "Kâdambarî "
+  },
+  {
+    "Code": "sutra.shrot.kaushika",
+    "Title": "Kauśika Śrauta Sūtra"
+  },
+  {
+    "Code": "dictionary.sa.kosh.bothlingk",
+    "Title": "Works of Böthlingk and Roth"
+  },
+  {
+    "Code": "text.naradsmriti",
+    "Title": "Nārada-smṛti / Nāradīya-dharma-śāstra"
+  },
+  {
+    "Code": "text.ritusanhar",
+    "Title": "Ritusamhâra "
+  },
+  {
+    "Code": "text.kavya.ALL",
+    "Title": "Kāvya literature"
+  },
+  {
+    "Code": "text.ram.anand.07.rajya",
+    "Title": "आनंदरामायण राज्यकांड"
+  },
+  {
+    "Code": "text.subhashitaratnakar.asvadhati",
+    "Title": "Asvadhâṭî "
+  },
+  {
+    "Code": "upanishad.aruneya",
+    "Title": "Āruṇeya-upaniṣad"
+  },
+  {
+    "Code": "text.ram.uttarramharita",
+    "Title": "Uttararàmacharita. "
+  },
+  {
+    "Code": "upanishad.garuda",
+    "Title": "Garuḍa-upaniṣad"
+  },
+  {
+    "Code": "text.tribhashyarata",
+    "Title": "त्रिभाष्यरत्न"
+  },
+  {
+    "Code": "text.mathura-mahatmya",
+    "Title": "Mathurā-māhātmya"
+  },
+  {
+    "Code": "author.kalidasa",
+    "Title": "कालिदास | Kālidāsa"
+  },
+  {
+    "Code": "text.haravijaya",
+    "Title": "Haravijaya | हरिविजय"
+  },
+  {
+    "Code": "text.ashtanghridya",
+    "Title": "Aṣṭāṅga-hṛdaya"
+  },
+  {
+    "Code": "dictionary.sa.kosh.monier",
+    "Title": "A Sanskrit-English Dictionary"
+  },
+  {
+    "Code": "text.agamapramanya",
+    "Title": "Āgamaprāmāṇya "
+  },
+  {
+    "Code": "text.nyayakosh",
+    "Title": "न्यायकोश"
+  },
+  {
+    "Code": "text.vasavdatta",
+    "Title": "Vásavadattâ"
+  },
+  {
+    "Code": "text.damyantikatha",
+    "Title": "Nalacampū or Damayantīkathā"
+  },
+  {
+    "Code": "text.bharataka-dvatrinshika",
+    "Title": "Bharaṭaka Dvātriṃśikā"
+  },
+  {
+    "Code": "text.ram.arya",
+    "Title": "आर्या - रामायण"
+  },
+  {
+    "Code": "upanishad.maitri",
+    "Title": "मैत्री उपनिषद"
+  },
+  {
+    "Code": "upanishad.shatarudriya",
+    "Title": "Śatarudriya-upaniṣad"
+  },
+  {
+    "Code": "purana.padma.03.swarg",
+    "Title": "पद्मपुराण स्वर्गखंड"
+  },
+  {
+    "Code": "text.history.vediclit",
+    "Title": "पं.भगवतदत्त-वैदिक वाङ्मय का इतिहास"
+  },
+  {
+    "Code": "text.pratishakhya.ALL",
+    "Title": "Prātiśākhya"
+  },
+  {
+    "Code": "text.katantra",
+    "Title": "Kātantra"
+  },
+  {
+    "Code": "text.vasudevsharan",
+    "Title": "वासुदेवशरण"
+  },
+  {
+    "Code": "text.buddhism.monier",
+    "Title": "Buddhism in its connexion with Brāhmaṇism and Hindūism: and in its contrast with Christianity"
+  },
+  {
+    "Code": "ved.riga.pratishakhya",
+    "Title": "ऋग्वेद प्रातिशाख्य"
+  },
+  {
+    "Code": "text.kuladipika",
+    "Title": "Kuladīpikā"
+  },
+  {
+    "Code": "text.hasyarnava",
+    "Title": "Hāsyārṇava"
+  },
+  {
+    "Code": "text.dnyaneshwari",
+    "Title": "ज्ञानेश्वरी"
+  },
+  {
+    "Code": "upanishad.kshurika",
+    "Title": "Kṣurikā-upaniṣad"
+  },
+  {
+    "Code": "text.parashurama-prakasha",
+    "Title": "Paraśurāma-prakāśa"
+  },
+  {
+    "Code": "text.kshatriyacha.itihas",
+    "Title": "प्राचीन क्षत्रियांचा इतिहास"
+  },
+  {
+    "Code": "text.mb.01.adi",
+    "Title": "महाभारत आदिपर्व"
+  },
+  {
+    "Code": "text.ram.anand",
+    "Title": "आनंदरामायण"
+  },
+  {
+    "Code": "text.vedic.mythology",
+    "Title": "वेदिये माइथोलोजी"
+  },
+  {
+    "Code": "text.shivaleelamrut",
+    "Title": "शिवलीलामृत"
+  },
+  {
+    "Code": "purana.skanda.04.kashi.02.uttar",
+    "Title": "स्कंदपुराण काशी खंड उत्तरार्ध"
+  },
+  {
+    "Code": "text.sanskarakaustubha",
+    "Title": "Saṃskārakaustubha"
+  },
+  {
+    "Code": "ved.atharva",
+    "Title": "अथर्ववेद"
+  },
+  {
+    "Code": "text.nitisara.kamandaki",
+    "Title": "Kámandakinîtisára."
+  },
+  {
+    "Code": "text.ram.gorresio",
+    "Title": "Gaspard Gorresio Italian edition"
+  },
+  {
+    "Code": "ved.yaju",
+    "Title": "Yajurved"
+  },
+  {
+    "Code": "brahman.arshen",
+    "Title": "आर्षेणब्राह्मण | Ārṣeya-brāhmaṇa"
+  },
+  {
+    "Code": "text.rutusamhara",
+    "Title": "Ṛtusaṃhāra"
+  },
+  {
+    "Code": "text.vivek-chintamani",
+    "Title": "विवेक चिंतामणि"
+  },
+  {
+    "Code": "upanishad.mundak",
+    "Title": "मुंडक उपनिषद"
+  },
+  {
+    "Code": "text.ram.anand.01.sara",
+    "Title": "आनंदरामायण सारकांड"
+  },
+  {
+    "Code": "text.nyayakosha",
+    "Title": "Nyāyakośa"
+  },
+  {
+    "Code": "text.suktisundara",
+    "Title": "Suktisundara"
+  },
+  {
+    "Code": "sanhita.vajasney.pratisakhya",
+    "Title": "Vājasaneyi Sanhitā Prātiśākhya"
+  },
+  {
+    "Code": "text.vajrasuchi",
+    "Title": "Vajrasūci"
+  },
+  {
+    "Code": "dictionary.sa.kosh.dhatupatha",
+    "Title": "Dhātupāṭha"
+  },
+  {
+    "Code": "purana.garuda.acharkand",
+    "Title": "गरुड पुराण आचारकांड"
+  },
+  {
+    "Code": "text.sama-vidhana-brahmana",
+    "Title": "Sāma-vidhāna-brāhmaṇa"
+  },
+  {
+    "Code": "upanishad.pranagnihotra",
+    "Title": "Prāṇāgnihotra-upaniṣad"
+  },
+  {
+    "Code": "upanishad.prashna",
+    "Title": "प्रश्न उपनिषद"
+  },
+  {
+    "Code": "text.vishvarup",
+    "Title": "विश्र्वरूप"
+  },
+  {
+    "Code": "text.siddhantamuktavali",
+    "Title": "Siddhântamuktâvali"
+  },
+  {
+    "Code": "purana.padma.01.srushti",
+    "Title": "पद्मपुराण सृष्टिखंड"
+  },
+  {
+    "Code": "text.dasayan",
+    "Title": "दासायन"
+  },
+  {
+    "Code": "text.religious.monier",
+    "Title": "Religious Thought and Life in India, also called 'Brāhmanism and Hindūism,' by Sir M. Monier-Williams"
+  },
+  {
+    "Code": "text.mb.17.mahaprasthanika",
+    "Title": "महाभारत महाप्रस्थानिकपर्व"
+  },
+  {
+    "Code": "text.karika",
+    "Title": "Kārikās, grammatical commentaries on Pāṇini in metrical form, found in Patañjali´s Mahābhāṣyam "
+  },
+  {
+    "Code": "text.kularnava-tantra",
+    "Title": "Kulārṇava-tantra"
+  },
+  {
+    "Code": "text.dayabhaga",
+    "Title": "Dáyabhàga."
+  },
+  {
+    "Code": "text.amrutanubhav.amtruvahini",
+    "Title": "अमृतानुभव - अमृतवाहिनी टीका"
+  },
+  {
+    "Code": "text.shakuntal",
+    "Title": "शाकुंतल | अभिज्ञान शाकुंतल"
+  },
+  {
+    "Code": "author.caraka",
+    "Title": "चरक | Charaka"
+  },
+  {
+    "Code": "text.hiranyakeshin-pitrumedha-sutra",
+    "Title": "Hiraṇyakeśin-pitṛmedha-sūtra"
+  },
+  {
+    "Code": "text.sisupalavadha",
+    "Title": "Sisupâlavadha."
+  },
+  {
+    "Code": "text.ratnakarandak",
+    "Title": "रत्नकरंडक श्रावकाचार"
+  },
+  {
+    "Code": "purana.skanda.05.avanti",
+    "Title": "स्कंदपुराण अवंती खंड"
+  },
+  {
+    "Code": "text.nalodaya",
+    "Title": "Nalodaya."
+  },
+  {
+    "Code": "text.kautukasarvasva",
+    "Title": "Kautukasarvasva"
+  },
+  {
+    "Code": "purana.kalika",
+    "Title": "कालिकापुराण"
+  },
+  {
+    "Code": "author.latyayana",
+    "Title": "लात्यायन | Lāṭyāyana"
+  },
+  {
+    "Code": "text.shraddhakalpa-bhashya",
+    "Title": "Śrāddhakalpa-bhāṣya"
+  },
+  {
+    "Code": "text.salihotra",
+    "Title": "Śalihotra."
+  },
+  {
+    "Code": "sutra.shrot.sankhyayan",
+    "Title": "सांख्यायन श्रौतसूत्र"
+  },
+  {
+    "Code": "upanishad.mantrika",
+    "Title": "Mantrika Upanishad / Culika Upanishad "
+  },
+  {
+    "Code": "text.yog.sanhita",
+    "Title": "योगसंहिता"
+  },
+  {
+    "Code": "author.mashaka",
+    "Title": "मशक | Maśaka"
+  },
+  {
+    "Code": "text.parasangabharana",
+    "Title": "Prasaṅgābharaṇa"
+  },
+  {
+    "Code": "text.vivek-chudamani",
+    "Title": "विवेकचूडामणि"
+  },
+  {
+    "Code": "purana.mudgal",
+    "Title": "मुदगल पुराण"
+  },
+  {
+    "Code": "text.dhhammapad",
+    "Title": "बौद्धधर्मीय ‘धम्मपद’"
+  },
+  {
+    "Code": "text.shrimala-mahatmya",
+    "Title": "Śrīmāla-māhātmya"
+  },
+  {
+    "Code": "text.kashikavritti",
+    "Title": "Kâsikâvṛitti"
+  },
+  {
+    "Code": "purana.skanda",
+    "Title": "स्कंदपुराण"
+  },
+  {
+    "Code": "sutra.gruhya.ashwalayan",
+    "Title": "आश्वलायन गृह्यसूत्र"
+  },
+  {
+    "Code": "upanishad.jabalopnishad",
+    "Title": "जाबालोपनिषद"
+  },
+  {
+    "Code": "text.kavyakalpa-lata",
+    "Title": "Kāvyakalpa-latā"
+  },
+  {
+    "Code": "text.kavikalpa-lata",
+    "Title": "Kavikalpa-latā"
+  },
+  {
+    "Code": "purana.bhagavata",
+    "Title": "भागवत"
+  },
+  {
+    "Code": "text.acharnirnaya",
+    "Title": "Ācāranirṇaya"
+  },
+  {
+    "Code": "text.aryavidyasudhakar",
+    "Title": "Aryavidyâsudhàkara "
+  },
+  {
+    "Code": "text.dakshinamnay",
+    "Title": "दक्षिणाम्नाय"
+  },
+  {
+    "Code": "text.jaimini",
+    "Title": "Jaina literature"
+  },
+  {
+    "Code": "text.sringaratilaka",
+    "Title": "Sṛingâratilaka"
+  },
+  {
+    "Code": "text.kavyamimansa",
+    "Title": "काव्यमिमांसा"
+  },
+  {
+    "Code": "text.sutra.kaushik",
+    "Title": "कौशिकसूत्र"
+  },
+  {
+    "Code": "text.nalacampu",
+    "Title": "Nalacampū"
+  },
+  {
+    "Code": "ved.yaju.dhanu",
+    "Title": "धनुर्वेद"
+  },
+  {
+    "Code": "text.ashvavaidyaka",
+    "Title": "Aśvavaidyaka "
+  },
+  {
+    "Code": "text.siddhantbodh",
+    "Title": "श्रीसिध्दान्तबोध"
+  },
+  {
+    "Code": "text.legend.sanskrit",
+    "Title": "दि फ्लड लिजेण्ड इन संस्कृत लिटरेचर"
+  },
+  {
+    "Code": "text.shreshthi-kathanaka.champaka",
+    "Title": "Campaka-śreṣṭhi-kathānaka"
+  },
+  {
+    "Code": "purana.garuda",
+    "Title": "गरुडपुराण"
+  },
+  {
+    "Code": "text.harivansh.01.harivansh",
+    "Title": "हरिवंश हरिवंशपर्व"
+  },
+  {
+    "Code": "text.avadanashataka",
+    "Title": "Avadānaśataka"
+  },
+  {
+    "Code": "sutra.gruhya.kathaka",
+    "Title": "Kāṭhaka Gruhyya Sutra"
+  },
+  {
+    "Code": "text.brihannariy",
+    "Title": "बृहन्नारदीय"
+  },
+  {
+    "Code": "text.mb.12.shanti",
+    "Title": "महाभारत शान्तिपर्व"
+  },
+  {
+    "Code": "sanhita.garg",
+    "Title": "गर्गसंहिता"
+  },
+  {
+    "Code": "author.yajnavalkya",
+    "Title": "याज्ञवल्क्य | Yājñavalkya"
+  },
+  {
+    "Code": "sanhita.narad",
+    "Title": "Nārada-saṃhitā"
+  },
+  {
+    "Code": "text.vikramankadevacharita",
+    "Title": "Vikramânkadevacharita "
+  },
+  {
+    "Code": "purana.skanda.08.ALL.08.ALL",
+    "Title": "Hālāsyamāhātmya"
+  },
+  {
+    "Code": "text.sarasvati-kanthabharana.bhoja",
+    "Title": "Sarasvatī-kaṇṭhābharaṇa, by Bhoja"
+  },
+  {
+    "Code": "text.jaiminiyanyayamalavistara.goldstucker",
+    "Title": "Jaiminîyanyâyamâlâvistara"
+  },
+  {
+    "Code": "text.shakuna.vasantaraja",
+    "Title": "Vasantarāja's Śākuna"
+  },
+  {
+    "Code": "text.kiratarjuniya",
+    "Title": "Kirâtârjunîya."
+  },
+  {
+    "Code": "sanhita.kapila",
+    "Title": "Skanda-purāṇa - Kapila Sanhitā "
+  },
+  {
+    "Code": "text.kamashastra.anagarang",
+    "Title": "अनंगरंग - कामशास्त्र"
+  },
+  {
+    "Code": "text.tilak.arya",
+    "Title": "आर्यों का मूलस्थान"
+  },
+  {
+    "Code": "upanishad.taittiriy.03.bhrugu",
+    "Title": "तैत्तिरीय उपनिषद - भृगुवल्ली"
+  },
+  {
+    "Code": "text.ram.kamba",
+    "Title": "Kamba Rāmāyaṇa"
+  },
+  {
+    "Code": "purana.skanda.07.prabhas.02.vastra",
+    "Title": "स्कंदपुराण प्रभास खंड वस्त्रापथक्षेत्रमाहात्म्य"
+  },
+  {
+    "Code": "text.brihatkatha",
+    "Title": "Bṛihatkathâ."
+  },
+  {
+    "Code": "text.rasamajari",
+    "Title": "Rasamanjarî."
+  },
+  {
+    "Code": "text.rasaratnakara",
+    "Title": "Rasaratnākara"
+  },
+  {
+    "Code": "text.hemadri",
+    "Title": "हेमाद्रि"
+  },
+  {
+    "Code": "text.hillebrant",
+    "Title": "हिलेब्रान्ट-वेदिशे माइथॉंलोजी"
+  },
+  {
+    "Code": "text.varahitantra",
+    "Title": "Vārāhītantra"
+  },
+  {
+    "Code": "purana.skanda.03.brahma.03.brahmottar",
+    "Title": "स्कंदपुराण ब्रह्म खंड ब्रह्मोत्तरखंड"
+  },
+  {
+    "Code": "upanishad.pinda",
+    "Title": "Piṇḍa-upaniṣad"
+  },
+  {
+    "Code": "text.manu.kulluka",
+    "Title": "Kullūka."
+  },
+  {
+    "Code": "author.drahyayana",
+    "Title": "द्रहायन | Drāhyāyaṇa"
+  },
+  {
+    "Code": "text.hari-namamrta-vyakarana.jiva",
+    "Title": "Jīva Gosvāmī's own commentary on hari-nāmāmṛta-vyākaraṇā"
+  },
+  {
+    "Code": "text.madhavanidan",
+    "Title": "Mâdhavanidâna."
+  },
+  {
+    "Code": "upanishad.brihadaranyak",
+    "Title": "बृहदारण्यक उपनिषद"
+  },
+  {
+    "Code": "text.baudhayan.dharm",
+    "Title": "Baudhāyana-dharma-śāstra"
+  },
+  {
+    "Code": "sutra.pratidnya",
+    "Title": "Pratijñā-sūtra"
+  },
+  {
+    "Code": "ved.sam.aranyak",
+    "Title": "Sāma-veda-āraṇyaka"
+  },
+  {
+    "Code": "text.saptashati",
+    "Title": "दुर्गा सप्तशती"
+  },
+  {
+    "Code": "text.Viddhasalabhanjika",
+    "Title": "Viddhasâlabhanjikâ "
+  },
+  {
+    "Code": "text.dnanabhairavitantra",
+    "Title": "Jñānabhairavītantra "
+  },
+  {
+    "Code": "text.cholachampu",
+    "Title": "Chola Champu"
+  },
+  {
+    "Code": "dictionary.mar.molesworth",
+    "Title": "मोलस्वर्थ"
+  },
+  {
+    "Code": "text.udvahatattva",
+    "Title": "Udvāhatattva "
+  },
+  {
+    "Code": "text.uddhavasandesa",
+    "Title": "Uddhavasandesa."
+  },
+  {
+    "Code": "purana.padma.04.brahma",
+    "Title": "पद्मपुराण ब्रह्मखंड"
+  },
+  {
+    "Code": "text.nagananda",
+    "Title": "Nàgânanda."
+  },
+  {
+    "Code": "upanishad.varahopanishad",
+    "Title": "बराहोपनिषद्"
+  },
+  {
+    "Code": "text.siddhantshiromani.01.ganitadhyaya",
+    "Title": "Gaṇitādhyāya"
+  },
+  {
+    "Code": "text.sharngadhara.sanhita",
+    "Title": "Śārṅgadhara-saṃhitā"
+  },
+  {
+    "Code": "text.bhasapariccheda",
+    "Title": "Bhàshàparichchheda."
+  },
+  {
+    "Code": "text.navanath.bhaktisar",
+    "Title": "नवनाथ भक्तिसार"
+  },
+  {
+    "Code": "text.brahmasiddhanta",
+    "Title": "Brahmasiddhānta"
+  },
+  {
+    "Code": "author.lexicographers",
+    "Title": "Lexicographers"
+  },
+  {
+    "Code": "text.arthshastra",
+    "Title": "कौटिल्यकृत अर्थशास्त्र"
+  },
+  {
+    "Code": "text.amarusataka",
+    "Title": "Amarusataka."
+  },
+  {
+    "Code": "purana.brahmanda.01.prakriya",
+    "Title": "ब्रह्मांड पुराण प्रक्रियापाद"
+  },
+  {
+    "Code": "text.karmapradipa",
+    "Title": "Karmapradīpa"
+  },
+  {
+    "Code": "text.laghujataka.varaha-mihira",
+    "Title": "Laghujātaka"
+  },
+  {
+    "Code": "text.karthanamamala.saubhari",
+    "Title": "Ekarthanamamala of Saubhari."
+  },
+  {
+    "Code": "text.suryadeva-yajvan",
+    "Title": "Sūryadeva-yajvan"
+  },
+  {
+    "Code": "text.vyavaharatattva",
+    "Title": "Vyavahāratattva"
+  },
+  {
+    "Code": "text.karanabhar",
+    "Title": "Karṇabhāra "
+  },
+  {
+    "Code": "text.brihannariy.02.uttar",
+    "Title": "बृहन्नारदीय उत्तरखंड"
+  },
+  {
+    "Code": "text.chhandomanjari",
+    "Title": "Chhandomanjarî."
+  },
+  {
+    "Code": "text.hitopdesh.prastavika",
+    "Title": "Hitopadesa Prastavika"
+  },
+  {
+    "Code": "text.bhavprakash",
+    "Title": "भावप्रकाश"
+  },
+  {
+    "Code": "sutra.shrot.drahyayan",
+    "Title": "द्राह्यायण श्रौतसूत्र"
+  },
+  {
+    "Code": "text.ram.uttarramharita.05",
+    "Title": "Uttararàmacharita. Part 5"
+  },
+  {
+    "Code": "author.kapila",
+    "Title": "कपिल | Kapila "
+  },
+  {
+    "Code": "sutra.shrot.khadir",
+    "Title": "खादिर श्रौतसूत्र"
+  },
+  {
+    "Code": "text.Phit-sutra",
+    "Title": "Phiṭ-sūtra"
+  },
+  {
+    "Code": "text.svapnavasavdatta.bhas",
+    "Title": "स्वप्नवासवदत्तम्"
+  },
+  {
+    "Code": "upanishad.atma",
+    "Title": "Ātma-upaniṣadkhaṇḍa 3"
+  },
+  {
+    "Code": "purana.kalki",
+    "Title": "Kalki Purāṇa"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.02.jagannath",
+    "Title": "स्कंदपुराण वैष्णव खंड जगन्नाथक्षेत्र माहात्म्य"
+  },
+  {
+    "Code": "purana.linga",
+    "Title": "लिंगपुराण"
+  },
+  {
+    "Code": "text.hitopdesh",
+    "Title": "Hitopadesa | हितोपदेश"
+  },
+  {
+    "Code": "text.pradyumna-vijaya",
+    "Title": "Pradyumna-vijaya"
+  },
+  {
+    "Code": "purana.padma",
+    "Title": "पद्मपुराण"
+  },
+  {
+    "Code": "sutra.shrot.varah",
+    "Title": "वाराह श्रौतसूत"
+  },
+  {
+    "Code": "purana.skanda.07.prabhas.03.abuda",
+    "Title": "स्कंदपुराण प्रभास खंड अबुदाचलमाहात्म्य"
+  },
+  {
+    "Code": "author.kielhorn",
+    "Title": "Kielhorn "
+  },
+  {
+    "Code": "text.vrasabhanuja-natika.mathura-dasa",
+    "Title": "Vṛṣabhānujā-nāṭikā, by Mathurā-dāsa"
+  },
+  {
+    "Code": "text.dipika",
+    "Title": "Dīpikā"
+  },
+  {
+    "Code": "upanishad.brahmabindu",
+    "Title": "Brahmabindu-upaniṣad"
+  },
+  {
+    "Code": "text.udbhata",
+    "Title": "Udbhaṭa."
+  },
+  {
+    "Code": "text.bhandarkar.san",
+    "Title": "भांडारकर संहिता"
+  },
+  {
+    "Code": "text.vartttika",
+    "Title": "वार्त्तिककार"
+  },
+  {
+    "Code": "text.varahas",
+    "Title": "Vārāhas"
+  },
+  {
+    "Code": "text.pravara",
+    "Title": "Pravara texts"
+  },
+  {
+    "Code": "text.vedarthdipika",
+    "Title": "वेदार्थदीपिका"
+  },
+  {
+    "Code": "text.gathasamgraha",
+    "Title": "Gāthāsaṃgraha"
+  },
+  {
+    "Code": "text.alankarasarvasva.keshav-mishra",
+    "Title": "Alaṃkāraśekhara, by Keśava-miśra"
+  },
+  {
+    "Code": "text.romakasiddhanta",
+    "Title": "Romakasiddhānta"
+  },
+  {
+    "Code": "text.chandi.kavach",
+    "Title": "चंडीकवचम्"
+  },
+  {
+    "Code": "author.kayyata",
+    "Title": "कैयट | Kayyaṭa"
+  },
+  {
+    "Code": "purana.bhagavata.ramanujan",
+    "Title": "Bhāgavata Ramanujan"
+  },
+  {
+    "Code": "text.jyotish",
+    "Title": "दिक्षित, भारतीय ज्योतिष"
+  },
+  {
+    "Code": "text.svapnachintamani",
+    "Title": "Svapnacintāmaṇi"
+  },
+  {
+    "Code": "sanhita.vajasney",
+    "Title": "वाजसनेय संहिता"
+  },
+  {
+    "Code": "sanhita.atri",
+    "Title": "अत्रिसंहिता"
+  },
+  {
+    "Code": "upanishad.ALL",
+    "Title": "Upanishad"
+  },
+  {
+    "Code": "text.gorakhnath-kanphata.briggs",
+    "Title": "Gorakhanath and Kanphatas"
+  },
+  {
+    "Code": "upanishad.nadabindu",
+    "Title": "Nādabindu-upaniṣad"
+  },
+  {
+    "Code": "text.mb",
+    "Title": "महाभारत"
+  },
+  {
+    "Code": "text.brihajjataka",
+    "Title": "Bṛihajjātaka"
+  },
+  {
+    "Code": "text.nirukta",
+    "Title": "निरुक्त"
+  },
+  {
+    "Code": "purana.adi",
+    "Title": "आदिपुराण"
+  },
+  {
+    "Code": "text.yogaratnakar",
+    "Title": "योगरत्नाकर"
+  },
+  {
+    "Code": "text.shiksha",
+    "Title": "Sikshâ."
+  },
+  {
+    "Code": "text.bijganita",
+    "Title": "Bîjagaṇita."
+  },
+  {
+    "Code": "text.stotra.Tattvamasi",
+    "Title": "Tattvamasi Strotra"
+  },
+  {
+    "Code": "purana.skanda.02.vaishnav.05.margashirsha",
+    "Title": "स्कंदपुराण वैष्णव खंड मार्गशीर्षमसमाहात्म्य"
+  },
+  {
+    "Code": "text.vagbhatalamkara",
+    "Title": "Vāgbhaṭālaṃkāra"
+  },
+  {
+    "Code": "text.shringara-tilaka",
+    "Title": "Śṛṅgāra-tilaka"
+  },
+  {
+    "Code": "brahman.aiterey",
+    "Title": "ऐतरेयब्राह्मण | Aitareya Brahmana"
+  },
+  {
+    "Code": "text.janakiharana",
+    "Title": "Jānakīharaṇa "
+  },
+  {
+    "Code": "text.ram.adhyatma",
+    "Title": "अध्यात्मरामायण"
+  },
+  {
+    "Code": "author.aryabhata",
+    "Title": "आर्यभट्ट | Āryabhaṭa"
+  },
+  {
+    "Code": "text.ram.uttarramharita.07",
+    "Title": "Uttararàmacharita. Part 7"
+  },
+  {
+    "Code": "ved.sam.gandharv",
+    "Title": "गांधर्ववेद"
+  },
+  {
+    "Code": "text.stotra.vishnu.padadi",
+    "Title": "Visnupādādi Stotra "
+  },
+  {
+    "Code": "purana.vishnu",
+    "Title": "विष्णु पुराण"
+  },
+  {
+    "Code": "text.sarvaupanishad-sara",
+    "Title": "Sarva-upaniṣat-sāra"
+  },
+  {
+    "Code": "text.history-of-dharma",
+    "Title": "History of Dharamashastra"
+  },
+  {
+    "Code": "text.shastra.jyotisha",
+    "Title": "Jyotiṣa"
+  },
+  {
+    "Code": "text.kalpataru",
+    "Title": "Kalpataru"
+  },
+  {
+    "Code": "sanhita.kapishthal",
+    "Title": "कापिष्ठलसंहिता"
+  },
+  {
+    "Code": "text.deshi-nama-mala",
+    "Title": "Deśī-nāma-mālā "
+  },
+  {
+    "Code": "sutra.gruhya.gautam",
+    "Title": "गौतम गृह्यसूत्र"
+  },
+  {
+    "Code": "text.unadikalpa",
+    "Title": "Uṇādikalpa"
+  },
+  {
+    "Code": "text.kamashastra",
+    "Title": "कामशास्त्र"
+  },
+  {
+    "Code": "text.atreya",
+    "Title": "Ātreya-anukramaṇikā"
+  },
+  {
+    "Code": "dictionary.sa.kosh.amar",
+    "Title": "अमरकोश | Amarakosha"
+  },
+  {
+    "Code": "text.shambhalagrama-mahatmya",
+    "Title": "Śambhalagrāma-māhātmya"
+  },
+  {
+    "Code": "author.kaiyata",
+    "Title": "कैयट | Kaiyaṭa, Kaiyyaṭa"
+  },
+  {
+    "Code": "ved.yaju.pratishakhya.shuk",
+    "Title": "शुकुयजुर्वेद प्रातिशाख्य"
+  },
+  {
+    "Code": "upanishad.narayan",
+    "Title": "नारायण उपनिषद | Nārāyaṇa|Nārāyaṇa"
+  },
+  {
+    "Code": "purana.samba",
+    "Title": "सांबपुराण"
+  },
+  {
+    "Code": "text.prayogaratna",
+    "Title": "Prayogaratna"
+  },
+  {
+    "Code": "text.bibliotheca.indica.danasagara",
+    "Title": "Dānasāgara | दानसागर Bibliotheca Indica."
+  },
+  {
+    "Code": "text.subhasita",
+    "Title": "Subhasita | सुभाषित"
+  },
+  {
+    "Code": "text.ram.adbhut",
+    "Title": "अद्‍भुतरामायण"
+  },
+  {
+    "Code": "text.haripath.rahasya",
+    "Title": "हरिपाठ रहस्य"
+  },
+  {
+    "Code": "text.nighantprakash",
+    "Title": "Nighaṇṭuprakāśa"
+  },
+  {
+    "Code": "text.suryasinddhanta",
+    "Title": "Sūryasiddhânta"
+  },
+  {
+    "Code": "text.kathakaanukramani",
+    "Title": "Kāṭhaka anukramaṇī "
+  },
+  {
+    "Code": "text.aryasaptashati",
+    "Title": "Āryāsaptaśatī"
+  },
+  {
+    "Code": "sutra.shrot.vaishakhanas",
+    "Title": "वैखानस श्रौतसूत्र"
+  },
+  {
+    "Code": "text.vastushastra.bharatiy.pratima",
+    "Title": "भारतीय वास्तुशास्त्र - प्रतिमाविज्ञान"
+  },
+  {
+    "Code": "text.chanakyaniti",
+    "Title": "Chanakya Niti|"
+  },
+  {
+    "Code": "text.manu",
+    "Title": "Manusmṛti | मनुस्मृती"
+  },
+  {
+    "Code": "text.alankaravimarshini.jayaratha",
+    "Title": "Alaṃkāravimarśinī, by Jayaratha"
+  },
+  {
+    "Code": "text.sharada-tilaka",
+    "Title": "Śāradā-tilaka"
+  }
+]

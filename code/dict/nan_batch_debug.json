@@ -1,0 +1,9 @@
+{
+  "iteration": "20",
+  "timestamp": "2026-03-23T00:46:15.679859",
+  "record": {
+    "text": "<s>[INST] Def: गिष्णु [/INST] \"गिष्णु\" Def: m. m. (= गेष्° ), a professional singer, [Uṇ.] k. a chanter of the [SV.] ; ib. an actor, [W.]. Tags: Masculine. Citations: Uṇādi-sūtra [Uṇ], सामवेद [SV], Works of Horace H. Wilson [W]. </s>"
+  },
+  "note": "NaN limit hit. Action: rollback",
+  "tip": "Reduce max_seq_length, lora_r, or check for numerical spikes in definitions."
+}

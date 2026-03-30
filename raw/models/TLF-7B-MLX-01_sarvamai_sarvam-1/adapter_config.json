@@ -1,0 +1,41 @@
+{
+    "adapter_path": ".",
+    "batch_size": 1,
+    "config": "./mlx_config.yaml",
+    "data": "./data",
+    "fine_tune_type": "lora",
+    "grad_accumulation_steps": 64,
+    "grad_checkpoint": true,
+    "iters": 215030,
+    "learning_rate": 2e-05,
+    "lora_parameters": {
+        "dropout": 0.1,
+        "rank": 32,
+        "scale": 16
+    },
+    "lr_schedule": null,
+    "mask_prompt": false,
+    "max_grad_norm": 0.05,
+    "max_seq_length": 1024,
+    "model": "sarvamai/sarvam-1",
+    "num_layers": 16,
+    "optimizer": "adam",
+    "optimizer_config": {
+        "adam": {},
+        "adamw": {},
+        "muon": {},
+        "sgd": {},
+        "adafactor": {}
+    },
+    "project_name": null,
+    "report_to": null,
+    "resume_adapter_file": null,
+    "save_every": 100,
+    "seed": 0,
+    "steps_per_eval": 200,
+    "steps_per_report": 10,
+    "test": false,
+    "test_batches": 500,
+    "train": true,
+    "val_batches": 25
+}

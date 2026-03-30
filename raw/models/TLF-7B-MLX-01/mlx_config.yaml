@@ -1,0 +1,16 @@
+adapter_path: /Users/vishalkhapre/Documents/Code/TLF-7B-LLM-01/code/dict/../../raw/models/TLF-7B-MLX-01
+batch_size: 1
+data: /Users/vishalkhapre/Documents/Code/TLF-7B-LLM-01/code/dict/../../raw/models/TLF-7B-MLX-01/data
+grad_accumulation_steps: 64
+grad_checkpoint: true
+iters: 129018
+learning_rate: 2.0e-05
+lora_parameters:
+  dropout: 0.1
+  rank: 32
+  scale: 16
+max_grad_norm: 0.05
+max_seq_length: 1024
+model: sarvamai/sarvam-1
+save_every: 100
+train: true
