@@ -31,3 +31,5 @@ raw/dict/*_log.txt
 code/dict/TLF_CONFIG.json
 raw/dict/4-prompts/substitutions_log.txt
 raw/active/rag/**
+raw/models/**/**.md
+raw/models/***/*
