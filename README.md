@@ -1,4 +1,4 @@
-# 🛡️ TLF-7B-LLM-01: Ultra-Stable Dict-SFT Pipeline
+![A description of the image](photo.jpg)# 🛡️ TLF-7B-LLM-01: Ultra-Stable Dict-SFT Pipeline
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -8,6 +8,8 @@
 **TLF-7B-LLM-01** is a production-tested, end-to-end Supervised Fine-Tuning (SFT) pipeline that transforms raw MSSQL dictionary databases into specialized Indic LLMs. Currently running `sarvamai/sarvam-1` (7B), trained for **215,030 iterations** over ~23 hours on Apple M-series hardware. Supports both **Apple Silicon (MLX/Metal)** and **NVIDIA (HuggingFace/CUDA)** via a single config switch.
 
 ---
+
+<img src="TLF-LLM-Infographic_v7.png" alt="TLF Pipeline Infographic" width="100%">
 
 ## ✨ Key Features
 
@@ -797,8 +799,6 @@ To add a new task to the pipeline:
 ---
 
 ## 🤝 Contributing
-
-
 
 Pull requests welcome — please open an issue first for major changes.
 
